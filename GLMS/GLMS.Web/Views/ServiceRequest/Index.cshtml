@@ -1,0 +1,53 @@
+@model IEnumerable<GLMS.Web.Models.ServiceRequest>
+@{ ViewData["Title"] = "SERVICE REQUESTS"; }
+
+<div class="card">
+    <div class="card-header d-flex justify-content-between align-items-center">
+        <span>SYS ACTIVE LOGS</span>
+        <a asp-action="Create" class="btn btn-sm btn-primary">[+] ADD REQUEST</a>
+    </div>
+    <div class="card-body p-0">
+        <table class="table">
+            <thead>
+                <tr>
+                    <th class="ps-4">REQ ID</th>
+                    <th>ENTITY</th>
+                    <th>CTRT</th>
+                    <th>DESCRIPTION</th>
+                    <th>DATE</th>
+                    <th class="text-end">VAL USD</th>
+                    <th class="text-end">VAL ZAR</th>
+                    <th>STATUS</th>
+                    <th class="pe-4 text-end">ACTION</th>
+                </tr>
+            </thead>
+            <tbody>
+                @if (!Model.Any())
+                {
+                    <tr><td colspan="9" class="text-center py-5 font-monospace text-muted">NO RECORDS FOUND</td></tr>
+                }
+                @foreach (var r in Model)
+                {
+                    <tr>
+                        <td class="ps-4 font-monospace text-muted">@r.Id</td>
+                        <td class="font-monospace text-white fw-bold">@r.Contract?.Client?.Name</td>
+                        <td class="font-monospace text-muted small">@r.ContractId</td>
+                        <td>
+                            <div class="font-monospace small text-white text-truncate" style="max-width: 180px;">@r.Description</div>
+                        </td>
+                        <td class="font-monospace text-muted" style="font-size: 0.75rem;">@r.CreatedAt.ToString("yy/MM/dd HH:mm")</td>
+                        <td class="text-end font-monospace text-muted">$@r.CostUSD.ToString("N2")</td>
+                        <td class="text-end font-monospace fw-bold" style="color:var(--neon-green);">R @r.CostZAR.ToString("N2")</td>
+                        <td class="font-monospace text-white fw-bold">@r.Status</td>
+                        <td class="pe-4 text-end">
+                            <div class="btn-group">
+                                <a asp-action="Details" asp-route-id="@r.Id" class="btn btn-sm" style="color:#fff; border-color:var(--border-color);">[VIEW]</a>
+                                <a asp-action="Delete" asp-route-id="@r.Id" class="btn btn-sm" style="color:#fff; border-color:var(--border-color);">[DEL]</a>
+                            </div>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+</div>

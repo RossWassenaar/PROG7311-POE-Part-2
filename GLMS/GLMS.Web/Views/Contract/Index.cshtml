@@ -1,0 +1,83 @@
+@model IEnumerable<GLMS.Web.Models.Contract>
+@{ ViewData["Title"] = "CONTRACT LEDGER"; }
+
+<div class="card mb-4 bg-transparent border-0">
+    <div class="card-body p-0">
+        <form method="get" class="row g-0">
+            <div class="col-md-3 border border-secondary p-3 bg-dark">
+                <label class="form-label text-muted">STATUS FILTER</label>
+                <select name="status" class="form-select form-select-sm">
+                    <option value="">ALL</option>
+                    @foreach (var s in new[]{"Draft","Active","Expired","On Hold"})
+                    {
+                        <option value="@s" selected="@(ViewBag.StatusFilter == s)">@s</option>
+                    }
+                </select>
+            </div>
+            <div class="col-md-3 border-top border-bottom border-secondary p-3 bg-dark border-end">
+                <label class="form-label text-muted">TIMEFRAME START</label>
+                <input type="date" name="startFrom" class="form-control form-control-sm" value="@ViewBag.StartFrom" />
+            </div>
+            <div class="col-md-3 border-top border-bottom border-secondary p-3 bg-dark border-end">
+                <label class="form-label text-muted">TIMEFRAME END</label>
+                <input type="date" name="startTo" class="form-control form-control-sm" value="@ViewBag.StartTo" />
+            </div>
+            <div class="col-md-3 border-top border-bottom border-end border-secondary p-3 bg-dark d-flex align-items-end">
+                <button type="submit" class="btn btn-sm w-100" style="color:var(--neon-cyan); border-color:var(--neon-cyan);">[SEARCH QUERY]</button>
+            </div>
+        </form>
+    </div>
+</div>
+
+<div class="card">
+    <div class="card-header d-flex justify-content-between align-items-center">
+        <span>SYS CONTRACT LEDGER</span>
+        <a asp-action="Create" class="btn btn-sm btn-primary">[+] ADD CONTRACT</a>
+    </div>
+    <div class="card-body p-0">
+        <table class="table">
+            <thead>
+                <tr>
+                    <th class="ps-4">CID</th>
+                    <th>ENTITY</th>
+                    <th>SLA</th>
+                    <th>STATUS</th>
+                    <th>TIMELINE</th>
+                    <th class="text-center">DOC LINK</th>
+                    <th class="pe-4 text-end">ACTION</th>
+                </tr>
+            </thead>
+            <tbody>
+                @if (!Model.Any())
+                {
+                    <tr><td colspan="7" class="text-center py-5 font-monospace text-muted">NO RECORDS FOUND</td></tr>
+                }
+                @foreach (var c in Model)
+                {
+                    <tr>
+                        <td class="ps-4 font-monospace text-muted">@c.Id</td>
+                        <td class="font-monospace text-white fw-bold">@c.Client?.Name</td>
+                        <td class="font-monospace text-muted">@c.ServiceLevel</td>
+                        <td class="font-monospace text-muted">@c.Status</td>
+                        <td class="font-monospace text-muted small">
+                            @c.StartDate.ToString("yy/MM/dd") - @c.EndDate.ToString("yy/MM/dd")
+                        </td>
+                        <td class="text-center">
+                            @if (!string.IsNullOrEmpty(c.SignedAgreementPath))
+                            {
+                                <a asp-action="DownloadAgreement" asp-route-id="@c.Id" class="badge text-decoration-none" style="color:var(--neon-green); border-color:var(--neon-green);">[DL PDF]</a>
+                            }
+                            else { <span class="font-monospace text-muted">NULL</span> }
+                        </td>
+                        <td class="pe-4 text-end">
+                            <div class="btn-group">
+                                <a asp-action="Details" asp-route-id="@c.Id" class="btn btn-sm" style="color:#fff; border-color:var(--border-color);">[VIEW]</a>
+                                <a asp-action="Edit" asp-route-id="@c.Id" class="btn btn-sm" style="color:#fff; border-color:var(--border-color);">[EDIT]</a>
+                            </div>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+</div>

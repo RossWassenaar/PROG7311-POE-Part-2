@@ -1,0 +1,51 @@
+@model IEnumerable<GLMS.Web.Models.Client>
+@{ ViewData["Title"] = "CLIENT RECORDS"; }
+
+<div class="card">
+    <div class="card-header d-flex justify-content-between align-items-center">
+        <span>SYS CLIENT DATABASE</span>
+        <a asp-action="Create" class="btn btn-sm btn-primary">[+] ADD RECORD</a>
+    </div>
+    <div class="card-body p-0">
+        <table class="table">
+            <thead>
+                <tr>
+                    <th class="ps-4">UID</th>
+                    <th>ENTITY NAME</th>
+                    <th>EMAIL</th>
+                    <th>PHONE NUMBER</th>
+                    <th>ZONE</th>
+                    <th class="text-center">ACTIVE CTRTS</th>
+                    <th class="pe-4 text-end">ACTION</th>
+                </tr>
+            </thead>
+            <tbody>
+                @if (!Model.Any())
+                {
+                    <tr><td colspan="7" class="text-center py-5 font-monospace text-muted">NO RECORDS FOUND</td></tr>
+                }
+                @foreach (var c in Model)
+                {
+                    var contactParts = c.ContactDetails?.Split(" | ") ?? Array.Empty<string>();
+                    var email = contactParts.Length > 0 ? contactParts[0] : "";
+                    var phone = contactParts.Length > 1 ? contactParts[1] : "";
+                    <tr>
+                        <td class="ps-4 font-monospace text-muted">@c.Id</td>
+                        <td class="font-monospace text-white fw-bold">@c.Name</td>
+                        <td class="font-monospace text-muted small">@email</td>
+                        <td class="font-monospace text-muted small">@phone</td>
+                        <td class="font-monospace text-muted small">@c.Region</td>
+                        <td class="text-center font-monospace text-white">@c.Contracts.Count</td>
+                        <td class="pe-4 text-end">
+                            <div class="btn-group">
+                                <a asp-action="Details" asp-route-id="@c.Id" class="btn btn-sm" style="color:#fff; border-color:var(--border-color);">[VIEW]</a>
+                                <a asp-action="Edit" asp-route-id="@c.Id" class="btn btn-sm" style="color:#fff; border-color:var(--border-color);">[EDIT]</a>
+                                <a asp-action="Delete" asp-route-id="@c.Id" class="btn btn-sm" style="color:#fff; border-color:var(--border-color);">[DEL]</a>
+                            </div>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+</div>

@@ -1,0 +1,144 @@
+@model GLMS.Web.Models.ServiceRequest
+@{ ViewData["Title"] = "New Service Request"; }
+
+<div class="row justify-content-center">
+    <div class="col-lg-8">
+
+        <div class="card mb-4 border border-cyan" style="border-color: var(--neon-cyan) !important;">
+            <div class="card-header bg-dark d-flex justify-content-between align-items-center" style="border-bottom-color: var(--neon-cyan);">
+                <span style="color: var(--neon-cyan);"><i class="bi bi-broadcast me-2"></i>Live Exchange Rate</span>
+                <span class="badge bg-transparent border-cyan" style="color: var(--neon-cyan);">LIVE</span>
+            </div>
+
+            <div class="card-body p-0 bg-black">
+                <div class="row g-0">
+                    <div class="col-md-5 p-4 border-end border-secondary">
+                        <div class="font-monospace small text-muted mb-2">USD</div>
+                        <div class="fs-1 fw-bold text-white font-monospace">1.00 <span class="fs-5 text-muted">USD</span></div>
+                    </div>
+                    <div class="col-md-2 d-flex justify-content-center align-items-center border-end border-secondary bg-dark">
+                        <i class="bi bi-arrow-right-circle text-muted fs-3"></i>
+                    </div>
+                    <div class="col-md-5 p-4 position-relative">
+                        <div class="font-monospace small text-muted mb-2">ZAR</div>
+                        <div class="fs-1 fw-bold font-monospace" style="color: var(--neon-cyan);" id="rate-display">AWAIT...</div>
+
+                        <button type="button" class="btn btn-sm border-secondary text-muted position-absolute" style="top: 10px; right: 10px;" onclick="refreshRate()">
+                            Refresh
+                        </button>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="card">
+            <div class="card-header">
+                Request Details
+            </div>
+            <div class="card-body p-4 bg-dark">
+                <form asp-action="Create" method="post" id="srForm">
+                    <div asp-validation-summary="ModelOnly" class="alert alert-danger font-monospace small"></div>
+
+                    <div class="mb-4">
+                        <label asp-for="ContractId" class="form-label">Select Contract</label>
+                        <select asp-for="ContractId" asp-items="ViewBag.Contracts" class="form-select" id="contractSelect">
+                            <option value="">— Select Contract —</option>
+                        </select>
+                        <span asp-validation-for="ContractId" class="text-danger small mt-1 font-monospace d-block"></span>
+                    </div>
+
+                    <div class="mb-4">
+                        <label asp-for="Description" class="form-label">Description</label>
+                        <textarea asp-for="Description" class="form-control font-monospace" rows="4" placeholder="Enter log details..."></textarea>
+                        <span asp-validation-for="Description" class="text-danger small mt-1 font-monospace d-block"></span>
+                    </div>
+
+                    <div class="row mb-4">
+                        <div class="col-md-6 mb-3 mb-md-0">
+                            <label asp-for="Status" class="form-label">Status</label>
+                            <select asp-for="Status" class="form-select">
+                                <option>Pending</option>
+                                <option>Processing</option>
+                            </select>
+                        </div>
+                        <div class="col-md-6">
+                            <label asp-for="ExchangeRate" class="form-label">Exchange Rate</label>
+                            <input asp-for="ExchangeRate" type="number" step="0.0001" class="form-control bg-black text-muted" id="exchangeRateInput" readonly />
+                        </div>
+                    </div>
+
+                    <div class="p-4 border border-secondary bg-black mb-4">
+                        <label class="form-label" style="color: var(--neon-orange);">Cost Calculation</label>
+                        <div class="row align-items-center mt-3">
+                            <div class="col-md-5">
+                                <label asp-for="CostZAR" class="form-label text-muted">Cost (ZAR)</label>
+                                <div class="input-group">
+                                    <span class="input-group-text bg-dark" style="color: var(--neon-cyan);">R</span>
+                                    <input asp-for="CostZAR" type="number" step="0.01" min="0" class="form-control font-monospace fw-bold" style="color: var(--neon-cyan); border-color: var(--neon-cyan);" id="costZar" placeholder="0.00" oninput="calculateUsd()" />
+                                </div>
+                                <span asp-validation-for="CostZAR" class="text-danger small mt-1 font-monospace d-block"></span>
+                            </div>
+
+                            <div class="col-md-2 text-center text-muted">
+                                <i class="bi bi-chevron-double-right fs-4 d-none d-md-block mt-4"></i>
+                            </div>
+
+                            <div class="col-md-5">
+                                <label asp-for="CostUSD" class="form-label text-muted">Cost (USD)</label>
+                                <div class="input-group">
+                                    <span class="input-group-text bg-dark">$</span>
+                                    <input asp-for="CostUSD" type="number" step="0.01" class="form-control font-monospace text-white bg-black" id="costUsd" readonly />
+                                </div>
+                                <span asp-validation-for="CostUSD" class="text-danger small mt-1 font-monospace d-block"></span>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="d-flex justify-content-between pt-3 border-top border-secondary">
+                        <a asp-action="Index" class="btn btn-dark text-muted">Cancel</a>
+                        <button type="submit" class="btn btn-primary" style="color:var(--neon-cyan); border-color:var(--neon-cyan);">Submit</button>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+<script>
+    let currentRate = @(((decimal)ViewBag.ExchangeRate).ToString("0.0000", System.Globalization.CultureInfo.InvariantCulture));
+
+    async function refreshRate() {
+        const rateDisplay = document.getElementById('rate-display');
+        rateDisplay.textContent = 'SYNC...';
+
+        try {
+            const res = await fetch('/ServiceRequest/GetRate');
+            const data = await res.json();
+            currentRate = data.rate;
+
+            rateDisplay.textContent = currentRate.toFixed(4);
+            document.getElementById('exchangeRateInput').value = currentRate.toFixed(4);
+            calculateUsd();
+        } catch {
+            rateDisplay.textContent = 'ERR';
+            rateDisplay.style.color = 'var(--neon-red)';
+        }
+    }
+
+    function calculateUsd() {
+        const zar = parseFloat(document.getElementById('costZar').value) || 0;
+        const usd = (zar / currentRate).toFixed(2);
+        document.getElementById('costUsd').value = usd;
+        document.getElementById('exchangeRateInput').value = currentRate.toFixed(4);
+    }
+
+    window.onload = function() {
+        document.getElementById('rate-display').textContent = currentRate.toFixed(4);
+        document.getElementById('exchangeRateInput').value = currentRate.toFixed(4);
+        @if (ViewBag.PreselectedContractId != null) {
+            <text>document.getElementById('contractSelect').value = '@ViewBag.PreselectedContractId';</text>
+        }
+    };
+</script>
+}

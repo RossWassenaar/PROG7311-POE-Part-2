@@ -1,0 +1,23 @@
+@model GLMS.Web.Models.ServiceRequest
+@{ ViewData["Title"] = "Delete Request"; }
+
+<div class="row justify-content-center">
+    <div class="col-lg-5">
+        <div class="card border-danger">
+            <div class="card-header bg-danger text-white fw-semibold"><i class="bi bi-exclamation-triangle me-2"></i>Confirm Delete</div>
+            <div class="card-body">
+                <p>Delete service request <strong>#@Model.Id</strong>?</p>
+                <dl class="row small">
+                    <dt class="col-sm-4">Client</dt><dd class="col-sm-8">@Model.Contract?.Client?.Name</dd>
+                    <dt class="col-sm-4">Description</dt><dd class="col-sm-8">@Model.Description</dd>
+                    <dt class="col-sm-4">Cost</dt><dd class="col-sm-8">$@Model.CostUSD.ToString("N2") / R @Model.CostZAR.ToString("N2")</dd>
+                </dl>
+                <form asp-action="Delete" method="post" class="d-flex gap-2">
+                    <input type="hidden" name="id" value="@Model.Id" />
+                    <button type="submit" class="btn btn-danger"><i class="bi bi-trash me-1"></i>Delete</button>
+                    <a asp-action="Index" class="btn btn-outline-secondary">Cancel</a>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
