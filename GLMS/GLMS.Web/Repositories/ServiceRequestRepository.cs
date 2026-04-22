@@ -5,6 +5,12 @@
  * Apress, 2022
  */
 
+//Title: ASP.NET Core Fundamentals Overview
+//Author: Microsoft
+//Date: 20 April 2026
+//Version: .NET 10
+//Availability: https://learn.microsoft.com/en-us/aspnet/core/fundamentals/?view=aspnetcore-10.0&tabs=windows
+
 using GLMS.Web.Data;
 using GLMS.Web.Models;
 using Microsoft.EntityFrameworkCore;

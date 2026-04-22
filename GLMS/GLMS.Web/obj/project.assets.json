@@ -3094,11 +3094,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\rossr\\Desktop\\Projects\\Formative Part 2\\Personal-Formative-2-PROG7311\\GLMS\\GLMS.Web\\GLMS.Web.csproj",
+      "projectUniqueName": "C:\\Users\\rossr\\Desktop\\Projects\\PROG7311-POE-Part-2\\GLMS\\GLMS.Web\\GLMS.Web.csproj",
       "projectName": "GLMS.Web",
-      "projectPath": "C:\\Users\\rossr\\Desktop\\Projects\\Formative Part 2\\Personal-Formative-2-PROG7311\\GLMS\\GLMS.Web\\GLMS.Web.csproj",
+      "projectPath": "C:\\Users\\rossr\\Desktop\\Projects\\PROG7311-POE-Part-2\\GLMS\\GLMS.Web\\GLMS.Web.csproj",
       "packagesPath": "C:\\Users\\rossr\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\rossr\\Desktop\\Projects\\Formative Part 2\\Personal-Formative-2-PROG7311\\GLMS\\GLMS.Web\\obj\\",
+      "outputPath": "C:\\Users\\rossr\\Desktop\\Projects\\PROG7311-POE-Part-2\\GLMS\\GLMS.Web\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

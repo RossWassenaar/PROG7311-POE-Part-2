@@ -5,6 +5,12 @@
  * Apress, 2022
  */
 
+//Title: ExchangeRate-API Documentation
+//Author: ExchangeRate-API
+//Date: 20 April 2026
+//Version: v6
+//Availability: https://www.exchangerate-api.com/docs/overview
+
 using System.Text.Json;
 
 namespace GLMS.Web.Services

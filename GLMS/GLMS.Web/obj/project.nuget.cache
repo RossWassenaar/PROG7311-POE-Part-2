@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "nBCfsPNe3bo=",
+  "dgSpecHash": "mnW1gTxdLCI=",
   "success": true,
-  "projectFilePath": "C:\\Users\\rossr\\Desktop\\Projects\\Formative Part 2\\Personal-Formative-2-PROG7311\\GLMS\\GLMS.Web\\GLMS.Web.csproj",
+  "projectFilePath": "C:\\Users\\rossr\\Desktop\\Projects\\PROG7311-POE-Part-2\\GLMS\\GLMS.Web\\GLMS.Web.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\rossr\\.nuget\\packages\\azure.core\\1.47.1\\azure.core.1.47.1.nupkg.sha512",
     "C:\\Users\\rossr\\.nuget\\packages\\azure.identity\\1.14.2\\azure.identity.1.14.2.nupkg.sha512",

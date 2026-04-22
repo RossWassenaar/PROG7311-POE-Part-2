@@ -5,6 +5,12 @@
  * Apress, 2022
  */
 
+//Title: Handle Requests with Controllers in ASP.NET Core MVC
+//Author: Microsoft
+//Date: 20 April 2026
+//Version: .NET 10
+//Availability: https://learn.microsoft.com/en-us/aspnet/core/mvc/controllers/actions
+
 using GLMS.Web.Models;
 using GLMS.Web.Repositories;
 using Microsoft.AspNetCore.Mvc;

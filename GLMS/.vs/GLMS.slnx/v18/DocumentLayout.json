@@ -1,313 +1,313 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\rossr\\Desktop\\Projects\\Formative Part 2\\Personal-Formative-2-PROG7311\\GLMS\\",
+  "WorkspaceRootPath": "C:\\Users\\rossr\\Desktop\\Projects\\PROG7311-POE-Part-2\\GLMS\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{56E79F5A-82FB-7736-7209-956FD67C3CCA}|GLMS.Web\\GLMS.Web.csproj|c:\\users\\rossr\\desktop\\projects\\formative part 2\\personal-formative-2-prog7311\\glms\\glms.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{56E79F5A-82FB-7736-7209-956FD67C3CCA}|GLMS.Web\\GLMS.Web.csproj|solutionrelative:glms.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{56E79F5A-82FB-7736-7209-956FD67C3CCA}|GLMS.Web\\GLMS.Web.csproj|c:\\users\\rossr\\desktop\\projects\\formative part 2\\personal-formative-2-prog7311\\glms\\glms.web\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{56E79F5A-82FB-7736-7209-956FD67C3CCA}|GLMS.Web\\GLMS.Web.csproj|solutionrelative:glms.web\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{56E79F5A-82FB-7736-7209-956FD67C3CCA}|GLMS.Web\\GLMS.Web.csproj|c:\\users\\rossr\\desktop\\projects\\formative part 2\\personal-formative-2-prog7311\\glms\\glms.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{56E79F5A-82FB-7736-7209-956FD67C3CCA}|GLMS.Web\\GLMS.Web.csproj|solutionrelative:glms.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{56E79F5A-82FB-7736-7209-956FD67C3CCA}|GLMS.Web\\GLMS.Web.csproj|c:\\users\\rossr\\desktop\\projects\\formative part 2\\personal-formative-2-prog7311\\glms\\glms.web\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{56E79F5A-82FB-7736-7209-956FD67C3CCA}|GLMS.Web\\GLMS.Web.csproj|solutionrelative:glms.web\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{56E79F5A-82FB-7736-7209-956FD67C3CCA}|GLMS.Web\\GLMS.Web.csproj|c:\\users\\rossr\\desktop\\projects\\formative part 2\\personal-formative-2-prog7311\\glms\\glms.web\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{56E79F5A-82FB-7736-7209-956FD67C3CCA}|GLMS.Web\\GLMS.Web.csproj|solutionrelative:glms.web\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{56E79F5A-82FB-7736-7209-956FD67C3CCA}|GLMS.Web\\GLMS.Web.csproj|c:\\users\\rossr\\desktop\\projects\\formative part 2\\personal-formative-2-prog7311\\glms\\glms.web\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{56E79F5A-82FB-7736-7209-956FD67C3CCA}|GLMS.Web\\GLMS.Web.csproj|solutionrelative:glms.web\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{56E79F5A-82FB-7736-7209-956FD67C3CCA}|GLMS.Web\\GLMS.Web.csproj|c:\\users\\rossr\\desktop\\projects\\formative part 2\\personal-formative-2-prog7311\\glms\\glms.web\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{56E79F5A-82FB-7736-7209-956FD67C3CCA}|GLMS.Web\\GLMS.Web.csproj|solutionrelative:glms.web\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{56E79F5A-82FB-7736-7209-956FD67C3CCA}|GLMS.Web\\GLMS.Web.csproj|c:\\users\\rossr\\desktop\\projects\\formative part 2\\personal-formative-2-prog7311\\glms\\glms.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{56E79F5A-82FB-7736-7209-956FD67C3CCA}|GLMS.Web\\GLMS.Web.csproj|solutionrelative:glms.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{56E79F5A-82FB-7736-7209-956FD67C3CCA}|GLMS.Web\\GLMS.Web.csproj|c:\\users\\rossr\\desktop\\projects\\formative part 2\\personal-formative-2-prog7311\\glms\\glms.web\\views\\servicerequest\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{56E79F5A-82FB-7736-7209-956FD67C3CCA}|GLMS.Web\\GLMS.Web.csproj|solutionrelative:glms.web\\views\\servicerequest\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{56E79F5A-82FB-7736-7209-956FD67C3CCA}|GLMS.Web\\GLMS.Web.csproj|c:\\users\\rossr\\desktop\\projects\\formative part 2\\personal-formative-2-prog7311\\glms\\glms.web\\views\\servicerequest\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{56E79F5A-82FB-7736-7209-956FD67C3CCA}|GLMS.Web\\GLMS.Web.csproj|solutionrelative:glms.web\\views\\servicerequest\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{56E79F5A-82FB-7736-7209-956FD67C3CCA}|GLMS.Web\\GLMS.Web.csproj|c:\\users\\rossr\\desktop\\projects\\formative part 2\\personal-formative-2-prog7311\\glms\\glms.web\\views\\servicerequest\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{56E79F5A-82FB-7736-7209-956FD67C3CCA}|GLMS.Web\\GLMS.Web.csproj|solutionrelative:glms.web\\views\\servicerequest\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{56E79F5A-82FB-7736-7209-956FD67C3CCA}|GLMS.Web\\GLMS.Web.csproj|c:\\users\\rossr\\desktop\\projects\\formative part 2\\personal-formative-2-prog7311\\glms\\glms.web\\views\\servicerequest\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{56E79F5A-82FB-7736-7209-956FD67C3CCA}|GLMS.Web\\GLMS.Web.csproj|solutionrelative:glms.web\\views\\servicerequest\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{56E79F5A-82FB-7736-7209-956FD67C3CCA}|GLMS.Web\\GLMS.Web.csproj|c:\\users\\rossr\\desktop\\projects\\formative part 2\\personal-formative-2-prog7311\\glms\\glms.web\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{56E79F5A-82FB-7736-7209-956FD67C3CCA}|GLMS.Web\\GLMS.Web.csproj|solutionrelative:glms.web\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{56E79F5A-82FB-7736-7209-956FD67C3CCA}|GLMS.Web\\GLMS.Web.csproj|c:\\users\\rossr\\desktop\\projects\\formative part 2\\personal-formative-2-prog7311\\glms\\glms.web\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{56E79F5A-82FB-7736-7209-956FD67C3CCA}|GLMS.Web\\GLMS.Web.csproj|solutionrelative:glms.web\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{56E79F5A-82FB-7736-7209-956FD67C3CCA}|GLMS.Web\\GLMS.Web.csproj|c:\\users\\rossr\\desktop\\projects\\formative part 2\\personal-formative-2-prog7311\\glms\\glms.web\\views\\contract\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{56E79F5A-82FB-7736-7209-956FD67C3CCA}|GLMS.Web\\GLMS.Web.csproj|solutionrelative:glms.web\\views\\contract\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{56E79F5A-82FB-7736-7209-956FD67C3CCA}|GLMS.Web\\GLMS.Web.csproj|c:\\users\\rossr\\desktop\\projects\\formative part 2\\personal-formative-2-prog7311\\glms\\glms.web\\views\\contract\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{56E79F5A-82FB-7736-7209-956FD67C3CCA}|GLMS.Web\\GLMS.Web.csproj|solutionrelative:glms.web\\views\\contract\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{56E79F5A-82FB-7736-7209-956FD67C3CCA}|GLMS.Web\\GLMS.Web.csproj|c:\\users\\rossr\\desktop\\projects\\formative part 2\\personal-formative-2-prog7311\\glms\\glms.web\\views\\contract\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{56E79F5A-82FB-7736-7209-956FD67C3CCA}|GLMS.Web\\GLMS.Web.csproj|solutionrelative:glms.web\\views\\contract\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{56E79F5A-82FB-7736-7209-956FD67C3CCA}|GLMS.Web\\GLMS.Web.csproj|c:\\users\\rossr\\desktop\\projects\\formative part 2\\personal-formative-2-prog7311\\glms\\glms.web\\views\\contract\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{56E79F5A-82FB-7736-7209-956FD67C3CCA}|GLMS.Web\\GLMS.Web.csproj|solutionrelative:glms.web\\views\\contract\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{56E79F5A-82FB-7736-7209-956FD67C3CCA}|GLMS.Web\\GLMS.Web.csproj|c:\\users\\rossr\\desktop\\projects\\formative part 2\\personal-formative-2-prog7311\\glms\\glms.web\\views\\contract\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{56E79F5A-82FB-7736-7209-956FD67C3CCA}|GLMS.Web\\GLMS.Web.csproj|solutionrelative:glms.web\\views\\contract\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{56E79F5A-82FB-7736-7209-956FD67C3CCA}|GLMS.Web\\GLMS.Web.csproj|c:\\users\\rossr\\desktop\\projects\\formative part 2\\personal-formative-2-prog7311\\glms\\glms.web\\views\\client\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{56E79F5A-82FB-7736-7209-956FD67C3CCA}|GLMS.Web\\GLMS.Web.csproj|solutionrelative:glms.web\\views\\client\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{56E79F5A-82FB-7736-7209-956FD67C3CCA}|GLMS.Web\\GLMS.Web.csproj|c:\\users\\rossr\\desktop\\projects\\formative part 2\\personal-formative-2-prog7311\\glms\\glms.web\\views\\client\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{56E79F5A-82FB-7736-7209-956FD67C3CCA}|GLMS.Web\\GLMS.Web.csproj|solutionrelative:glms.web\\views\\client\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{56E79F5A-82FB-7736-7209-956FD67C3CCA}|GLMS.Web\\GLMS.Web.csproj|c:\\users\\rossr\\desktop\\projects\\formative part 2\\personal-formative-2-prog7311\\glms\\glms.web\\views\\client\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{56E79F5A-82FB-7736-7209-956FD67C3CCA}|GLMS.Web\\GLMS.Web.csproj|solutionrelative:glms.web\\views\\client\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{56E79F5A-82FB-7736-7209-956FD67C3CCA}|GLMS.Web\\GLMS.Web.csproj|c:\\users\\rossr\\desktop\\projects\\formative part 2\\personal-formative-2-prog7311\\glms\\glms.web\\views\\client\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{56E79F5A-82FB-7736-7209-956FD67C3CCA}|GLMS.Web\\GLMS.Web.csproj|solutionrelative:glms.web\\views\\client\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{56E79F5A-82FB-7736-7209-956FD67C3CCA}|GLMS.Web\\GLMS.Web.csproj|c:\\users\\rossr\\desktop\\projects\\formative part 2\\personal-formative-2-prog7311\\glms\\glms.web\\views\\client\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{56E79F5A-82FB-7736-7209-956FD67C3CCA}|GLMS.Web\\GLMS.Web.csproj|solutionrelative:glms.web\\views\\client\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{56E79F5A-82FB-7736-7209-956FD67C3CCA}|GLMS.Web\\GLMS.Web.csproj|c:\\users\\rossr\\desktop\\projects\\formative part 2\\personal-formative-2-prog7311\\glms\\glms.web\\services\\workflowvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{56E79F5A-82FB-7736-7209-956FD67C3CCA}|GLMS.Web\\GLMS.Web.csproj|solutionrelative:glms.web\\services\\workflowvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{56E79F5A-82FB-7736-7209-956FD67C3CCA}|GLMS.Web\\GLMS.Web.csproj|c:\\users\\rossr\\desktop\\projects\\formative part 2\\personal-formative-2-prog7311\\glms\\glms.web\\services\\ifileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{56E79F5A-82FB-7736-7209-956FD67C3CCA}|GLMS.Web\\GLMS.Web.csproj|solutionrelative:glms.web\\services\\ifileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{56E79F5A-82FB-7736-7209-956FD67C3CCA}|GLMS.Web\\GLMS.Web.csproj|c:\\users\\rossr\\desktop\\projects\\formative part 2\\personal-formative-2-prog7311\\glms\\glms.web\\services\\icurrencyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{56E79F5A-82FB-7736-7209-956FD67C3CCA}|GLMS.Web\\GLMS.Web.csproj|solutionrelative:glms.web\\services\\icurrencyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{56E79F5A-82FB-7736-7209-956FD67C3CCA}|GLMS.Web\\GLMS.Web.csproj|c:\\users\\rossr\\desktop\\projects\\formative part 2\\personal-formative-2-prog7311\\glms\\glms.web\\services\\fileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{56E79F5A-82FB-7736-7209-956FD67C3CCA}|GLMS.Web\\GLMS.Web.csproj|solutionrelative:glms.web\\services\\fileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{56E79F5A-82FB-7736-7209-956FD67C3CCA}|GLMS.Web\\GLMS.Web.csproj|c:\\users\\rossr\\desktop\\projects\\formative part 2\\personal-formative-2-prog7311\\glms\\glms.web\\services\\currencyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{56E79F5A-82FB-7736-7209-956FD67C3CCA}|GLMS.Web\\GLMS.Web.csproj|solutionrelative:glms.web\\services\\currencyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{56E79F5A-82FB-7736-7209-956FD67C3CCA}|GLMS.Web\\GLMS.Web.csproj|c:\\users\\rossr\\desktop\\projects\\formative part 2\\personal-formative-2-prog7311\\glms\\glms.web\\services\\currencycalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{56E79F5A-82FB-7736-7209-956FD67C3CCA}|GLMS.Web\\GLMS.Web.csproj|solutionrelative:glms.web\\services\\currencycalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{56E79F5A-82FB-7736-7209-956FD67C3CCA}|GLMS.Web\\GLMS.Web.csproj|c:\\users\\rossr\\desktop\\projects\\formative part 2\\personal-formative-2-prog7311\\glms\\glms.web\\repositories\\contractrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{56E79F5A-82FB-7736-7209-956FD67C3CCA}|GLMS.Web\\GLMS.Web.csproj|solutionrelative:glms.web\\repositories\\contractrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{56E79F5A-82FB-7736-7209-956FD67C3CCA}|GLMS.Web\\GLMS.Web.csproj|c:\\users\\rossr\\desktop\\projects\\formative part 2\\personal-formative-2-prog7311\\glms\\glms.web\\repositories\\clientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{56E79F5A-82FB-7736-7209-956FD67C3CCA}|GLMS.Web\\GLMS.Web.csproj|solutionrelative:glms.web\\repositories\\clientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{56E79F5A-82FB-7736-7209-956FD67C3CCA}|GLMS.Web\\GLMS.Web.csproj|c:\\users\\rossr\\desktop\\projects\\formative part 2\\personal-formative-2-prog7311\\glms\\glms.web\\repositories\\iclientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{56E79F5A-82FB-7736-7209-956FD67C3CCA}|GLMS.Web\\GLMS.Web.csproj|solutionrelative:glms.web\\repositories\\iclientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{56E79F5A-82FB-7736-7209-956FD67C3CCA}|GLMS.Web\\GLMS.Web.csproj|c:\\users\\rossr\\desktop\\projects\\formative part 2\\personal-formative-2-prog7311\\glms\\glms.web\\repositories\\icontractrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{56E79F5A-82FB-7736-7209-956FD67C3CCA}|GLMS.Web\\GLMS.Web.csproj|solutionrelative:glms.web\\repositories\\icontractrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{56E79F5A-82FB-7736-7209-956FD67C3CCA}|GLMS.Web\\GLMS.Web.csproj|c:\\users\\rossr\\desktop\\projects\\formative part 2\\personal-formative-2-prog7311\\glms\\glms.web\\repositories\\iservicerequestrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{56E79F5A-82FB-7736-7209-956FD67C3CCA}|GLMS.Web\\GLMS.Web.csproj|solutionrelative:glms.web\\repositories\\iservicerequestrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{56E79F5A-82FB-7736-7209-956FD67C3CCA}|GLMS.Web\\GLMS.Web.csproj|c:\\users\\rossr\\desktop\\projects\\formative part 2\\personal-formative-2-prog7311\\glms\\glms.web\\repositories\\servicerequestrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{56E79F5A-82FB-7736-7209-956FD67C3CCA}|GLMS.Web\\GLMS.Web.csproj|solutionrelative:glms.web\\repositories\\servicerequestrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{56E79F5A-82FB-7736-7209-956FD67C3CCA}|GLMS.Web\\GLMS.Web.csproj|c:\\users\\rossr\\desktop\\projects\\formative part 2\\personal-formative-2-prog7311\\glms\\glms.web\\patterns\\strategy\\validationstrategyselector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{56E79F5A-82FB-7736-7209-956FD67C3CCA}|GLMS.Web\\GLMS.Web.csproj|solutionrelative:glms.web\\patterns\\strategy\\validationstrategyselector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{56E79F5A-82FB-7736-7209-956FD67C3CCA}|GLMS.Web\\GLMS.Web.csproj|c:\\users\\rossr\\desktop\\projects\\formative part 2\\personal-formative-2-prog7311\\glms\\glms.web\\patterns\\strategy\\onholdcontractstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{56E79F5A-82FB-7736-7209-956FD67C3CCA}|GLMS.Web\\GLMS.Web.csproj|solutionrelative:glms.web\\patterns\\strategy\\onholdcontractstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{56E79F5A-82FB-7736-7209-956FD67C3CCA}|GLMS.Web\\GLMS.Web.csproj|c:\\users\\rossr\\desktop\\projects\\formative part 2\\personal-formative-2-prog7311\\glms\\glms.web\\patterns\\strategy\\iservicerequestvalidationstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{56E79F5A-82FB-7736-7209-956FD67C3CCA}|GLMS.Web\\GLMS.Web.csproj|solutionrelative:glms.web\\patterns\\strategy\\iservicerequestvalidationstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{56E79F5A-82FB-7736-7209-956FD67C3CCA}|GLMS.Web\\GLMS.Web.csproj|c:\\users\\rossr\\desktop\\projects\\formative part 2\\personal-formative-2-prog7311\\glms\\glms.web\\patterns\\strategy\\expiredcontractstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{56E79F5A-82FB-7736-7209-956FD67C3CCA}|GLMS.Web\\GLMS.Web.csproj|solutionrelative:glms.web\\patterns\\strategy\\expiredcontractstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{56E79F5A-82FB-7736-7209-956FD67C3CCA}|GLMS.Web\\GLMS.Web.csproj|c:\\users\\rossr\\desktop\\projects\\formative part 2\\personal-formative-2-prog7311\\glms\\glms.web\\patterns\\strategy\\draftcontractstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{56E79F5A-82FB-7736-7209-956FD67C3CCA}|GLMS.Web\\GLMS.Web.csproj|solutionrelative:glms.web\\patterns\\strategy\\draftcontractstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{56E79F5A-82FB-7736-7209-956FD67C3CCA}|GLMS.Web\\GLMS.Web.csproj|c:\\users\\rossr\\desktop\\projects\\formative part 2\\personal-formative-2-prog7311\\glms\\glms.web\\patterns\\strategy\\activecontractstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{56E79F5A-82FB-7736-7209-956FD67C3CCA}|GLMS.Web\\GLMS.Web.csproj|solutionrelative:glms.web\\patterns\\strategy\\activecontractstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{56E79F5A-82FB-7736-7209-956FD67C3CCA}|GLMS.Web\\GLMS.Web.csproj|c:\\users\\rossr\\desktop\\projects\\formative part 2\\personal-formative-2-prog7311\\glms\\glms.web\\patterns\\observer\\icontractstatusobserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{56E79F5A-82FB-7736-7209-956FD67C3CCA}|GLMS.Web\\GLMS.Web.csproj|solutionrelative:glms.web\\patterns\\observer\\icontractstatusobserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{56E79F5A-82FB-7736-7209-956FD67C3CCA}|GLMS.Web\\GLMS.Web.csproj|c:\\users\\rossr\\desktop\\projects\\formative part 2\\personal-formative-2-prog7311\\glms\\glms.web\\patterns\\observer\\expiryalertobserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{56E79F5A-82FB-7736-7209-956FD67C3CCA}|GLMS.Web\\GLMS.Web.csproj|solutionrelative:glms.web\\patterns\\observer\\expiryalertobserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{56E79F5A-82FB-7736-7209-956FD67C3CCA}|GLMS.Web\\GLMS.Web.csproj|c:\\users\\rossr\\desktop\\projects\\formative part 2\\personal-formative-2-prog7311\\glms\\glms.web\\patterns\\observer\\contractstatuspublisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{56E79F5A-82FB-7736-7209-956FD67C3CCA}|GLMS.Web\\GLMS.Web.csproj|solutionrelative:glms.web\\patterns\\observer\\contractstatuspublisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{56E79F5A-82FB-7736-7209-956FD67C3CCA}|GLMS.Web\\GLMS.Web.csproj|c:\\users\\rossr\\desktop\\projects\\formative part 2\\personal-formative-2-prog7311\\glms\\glms.web\\patterns\\observer\\auditlogobserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{56E79F5A-82FB-7736-7209-956FD67C3CCA}|GLMS.Web\\GLMS.Web.csproj|solutionrelative:glms.web\\patterns\\observer\\auditlogobserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{56E79F5A-82FB-7736-7209-956FD67C3CCA}|GLMS.Web\\GLMS.Web.csproj|c:\\users\\rossr\\desktop\\projects\\formative part 2\\personal-formative-2-prog7311\\glms\\glms.web\\patterns\\factory\\contractfactoryprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{56E79F5A-82FB-7736-7209-956FD67C3CCA}|GLMS.Web\\GLMS.Web.csproj|solutionrelative:glms.web\\patterns\\factory\\contractfactoryprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{56E79F5A-82FB-7736-7209-956FD67C3CCA}|GLMS.Web\\GLMS.Web.csproj|c:\\users\\rossr\\desktop\\projects\\formative part 2\\personal-formative-2-prog7311\\glms\\glms.web\\patterns\\factory\\enterprisecontractfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{56E79F5A-82FB-7736-7209-956FD67C3CCA}|GLMS.Web\\GLMS.Web.csproj|solutionrelative:glms.web\\patterns\\factory\\enterprisecontractfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{56E79F5A-82FB-7736-7209-956FD67C3CCA}|GLMS.Web\\GLMS.Web.csproj|c:\\users\\rossr\\desktop\\projects\\formative part 2\\personal-formative-2-prog7311\\glms\\glms.web\\patterns\\factory\\icontractfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{56E79F5A-82FB-7736-7209-956FD67C3CCA}|GLMS.Web\\GLMS.Web.csproj|solutionrelative:glms.web\\patterns\\factory\\icontractfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{56E79F5A-82FB-7736-7209-956FD67C3CCA}|GLMS.Web\\GLMS.Web.csproj|c:\\users\\rossr\\desktop\\projects\\formative part 2\\personal-formative-2-prog7311\\glms\\glms.web\\patterns\\factory\\premiumcontractfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{56E79F5A-82FB-7736-7209-956FD67C3CCA}|GLMS.Web\\GLMS.Web.csproj|solutionrelative:glms.web\\patterns\\factory\\premiumcontractfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{56E79F5A-82FB-7736-7209-956FD67C3CCA}|GLMS.Web\\GLMS.Web.csproj|c:\\users\\rossr\\desktop\\projects\\formative part 2\\personal-formative-2-prog7311\\glms\\glms.web\\patterns\\factory\\standardcontractfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{56E79F5A-82FB-7736-7209-956FD67C3CCA}|GLMS.Web\\GLMS.Web.csproj|solutionrelative:glms.web\\patterns\\factory\\standardcontractfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{56E79F5A-82FB-7736-7209-956FD67C3CCA}|GLMS.Web\\GLMS.Web.csproj|c:\\users\\rossr\\desktop\\projects\\formative part 2\\personal-formative-2-prog7311\\glms\\glms.web\\models\\servicerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{56E79F5A-82FB-7736-7209-956FD67C3CCA}|GLMS.Web\\GLMS.Web.csproj|solutionrelative:glms.web\\models\\servicerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{56E79F5A-82FB-7736-7209-956FD67C3CCA}|GLMS.Web\\GLMS.Web.csproj|c:\\users\\rossr\\desktop\\projects\\formative part 2\\personal-formative-2-prog7311\\glms\\glms.web\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{56E79F5A-82FB-7736-7209-956FD67C3CCA}|GLMS.Web\\GLMS.Web.csproj|solutionrelative:glms.web\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{56E79F5A-82FB-7736-7209-956FD67C3CCA}|GLMS.Web\\GLMS.Web.csproj|c:\\users\\rossr\\desktop\\projects\\formative part 2\\personal-formative-2-prog7311\\glms\\glms.web\\models\\contract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{56E79F5A-82FB-7736-7209-956FD67C3CCA}|GLMS.Web\\GLMS.Web.csproj|solutionrelative:glms.web\\models\\contract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{56E79F5A-82FB-7736-7209-956FD67C3CCA}|GLMS.Web\\GLMS.Web.csproj|c:\\users\\rossr\\desktop\\projects\\formative part 2\\personal-formative-2-prog7311\\glms\\glms.web\\models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{56E79F5A-82FB-7736-7209-956FD67C3CCA}|GLMS.Web\\GLMS.Web.csproj|solutionrelative:glms.web\\models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{56E79F5A-82FB-7736-7209-956FD67C3CCA}|GLMS.Web\\GLMS.Web.csproj|c:\\users\\rossr\\desktop\\projects\\formative part 2\\personal-formative-2-prog7311\\glms\\glms.web\\controllers\\servicerequestcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{56E79F5A-82FB-7736-7209-956FD67C3CCA}|GLMS.Web\\GLMS.Web.csproj|c:\\users\\rossr\\desktop\\projects\\prog7311-poe-part-2\\glms\\glms.web\\controllers\\servicerequestcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{56E79F5A-82FB-7736-7209-956FD67C3CCA}|GLMS.Web\\GLMS.Web.csproj|solutionrelative:glms.web\\controllers\\servicerequestcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{56E79F5A-82FB-7736-7209-956FD67C3CCA}|GLMS.Web\\GLMS.Web.csproj|c:\\users\\rossr\\desktop\\projects\\formative part 2\\personal-formative-2-prog7311\\glms\\glms.web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{56E79F5A-82FB-7736-7209-956FD67C3CCA}|GLMS.Web\\GLMS.Web.csproj|solutionrelative:glms.web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{56E79F5A-82FB-7736-7209-956FD67C3CCA}|GLMS.Web\\GLMS.Web.csproj|c:\\users\\rossr\\desktop\\projects\\formative part 2\\personal-formative-2-prog7311\\glms\\glms.web\\controllers\\contractcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{56E79F5A-82FB-7736-7209-956FD67C3CCA}|GLMS.Web\\GLMS.Web.csproj|c:\\users\\rossr\\desktop\\projects\\prog7311-poe-part-2\\glms\\glms.web\\controllers\\contractcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{56E79F5A-82FB-7736-7209-956FD67C3CCA}|GLMS.Web\\GLMS.Web.csproj|solutionrelative:glms.web\\controllers\\contractcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{56E79F5A-82FB-7736-7209-956FD67C3CCA}|GLMS.Web\\GLMS.Web.csproj|c:\\users\\rossr\\desktop\\projects\\formative part 2\\personal-formative-2-prog7311\\glms\\glms.web\\controllers\\clientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{56E79F5A-82FB-7736-7209-956FD67C3CCA}|GLMS.Web\\GLMS.Web.csproj|c:\\users\\rossr\\desktop\\projects\\prog7311-poe-part-2\\glms\\glms.web\\controllers\\clientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{56E79F5A-82FB-7736-7209-956FD67C3CCA}|GLMS.Web\\GLMS.Web.csproj|solutionrelative:glms.web\\controllers\\clientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BB923F52-7B77-4792-6033-74E953A84482}|GLMS.Tests\\GLMS.Tests.csproj|c:\\users\\rossr\\desktop\\projects\\formative part 2\\personal-formative-2-prog7311\\glms\\glms.tests\\validationstrategytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BB923F52-7B77-4792-6033-74E953A84482}|GLMS.Tests\\GLMS.Tests.csproj|solutionrelative:glms.tests\\validationstrategytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{56E79F5A-82FB-7736-7209-956FD67C3CCA}|GLMS.Web\\GLMS.Web.csproj|c:\\users\\rossr\\desktop\\projects\\prog7311-poe-part-2\\glms\\glms.web\\services\\icurrencyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56E79F5A-82FB-7736-7209-956FD67C3CCA}|GLMS.Web\\GLMS.Web.csproj|solutionrelative:glms.web\\services\\icurrencyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{56E79F5A-82FB-7736-7209-956FD67C3CCA}|GLMS.Web\\GLMS.Web.csproj|c:\\users\\rossr\\desktop\\projects\\formative part 2\\personal-formative-2-prog7311\\glms\\glms.web\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{56E79F5A-82FB-7736-7209-956FD67C3CCA}|GLMS.Web\\GLMS.Web.csproj|solutionrelative:glms.web\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{56E79F5A-82FB-7736-7209-956FD67C3CCA}|GLMS.Web\\GLMS.Web.csproj|c:\\users\\rossr\\desktop\\projects\\prog7311-poe-part-2\\glms\\glms.web\\services\\currencyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56E79F5A-82FB-7736-7209-956FD67C3CCA}|GLMS.Web\\GLMS.Web.csproj|solutionrelative:glms.web\\services\\currencyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{56E79F5A-82FB-7736-7209-956FD67C3CCA}|GLMS.Web\\GLMS.Web.csproj|c:\\users\\rossr\\desktop\\projects\\formative part 2\\personal-formative-2-prog7311\\glms\\glms.web\\migrations\\20260420083108_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{56E79F5A-82FB-7736-7209-956FD67C3CCA}|GLMS.Web\\GLMS.Web.csproj|solutionrelative:glms.web\\migrations\\20260420083108_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{56E79F5A-82FB-7736-7209-956FD67C3CCA}|GLMS.Web\\GLMS.Web.csproj|c:\\users\\rossr\\desktop\\projects\\prog7311-poe-part-2\\glms\\glms.web\\patterns\\strategy\\validationstrategyselector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56E79F5A-82FB-7736-7209-956FD67C3CCA}|GLMS.Web\\GLMS.Web.csproj|solutionrelative:glms.web\\patterns\\strategy\\validationstrategyselector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{56E79F5A-82FB-7736-7209-956FD67C3CCA}|GLMS.Web\\GLMS.Web.csproj|c:\\users\\rossr\\desktop\\projects\\formative part 2\\personal-formative-2-prog7311\\glms\\glms.web\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{56E79F5A-82FB-7736-7209-956FD67C3CCA}|GLMS.Web\\GLMS.Web.csproj|solutionrelative:glms.web\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{56E79F5A-82FB-7736-7209-956FD67C3CCA}|GLMS.Web\\GLMS.Web.csproj|c:\\users\\rossr\\desktop\\projects\\prog7311-poe-part-2\\glms\\glms.web\\patterns\\strategy\\onholdcontractstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56E79F5A-82FB-7736-7209-956FD67C3CCA}|GLMS.Web\\GLMS.Web.csproj|solutionrelative:glms.web\\patterns\\strategy\\onholdcontractstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{56E79F5A-82FB-7736-7209-956FD67C3CCA}|GLMS.Web\\GLMS.Web.csproj|c:\\users\\rossr\\desktop\\projects\\formative part 2\\personal-formative-2-prog7311\\glms\\glms.web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{56E79F5A-82FB-7736-7209-956FD67C3CCA}|GLMS.Web\\GLMS.Web.csproj|solutionrelative:glms.web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+      "AbsoluteMoniker": "D:0:0:{56E79F5A-82FB-7736-7209-956FD67C3CCA}|GLMS.Web\\GLMS.Web.csproj|c:\\users\\rossr\\desktop\\projects\\prog7311-poe-part-2\\glms\\glms.web\\patterns\\strategy\\iservicerequestvalidationstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56E79F5A-82FB-7736-7209-956FD67C3CCA}|GLMS.Web\\GLMS.Web.csproj|solutionrelative:glms.web\\patterns\\strategy\\iservicerequestvalidationstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{56E79F5A-82FB-7736-7209-956FD67C3CCA}|GLMS.Web\\GLMS.Web.csproj|c:\\users\\rossr\\desktop\\projects\\formative part 2\\personal-formative-2-prog7311\\glms\\glms.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{56E79F5A-82FB-7736-7209-956FD67C3CCA}|GLMS.Web\\GLMS.Web.csproj|solutionrelative:glms.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+      "AbsoluteMoniker": "D:0:0:{56E79F5A-82FB-7736-7209-956FD67C3CCA}|GLMS.Web\\GLMS.Web.csproj|c:\\users\\rossr\\desktop\\projects\\prog7311-poe-part-2\\glms\\glms.web\\patterns\\strategy\\expiredcontractstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56E79F5A-82FB-7736-7209-956FD67C3CCA}|GLMS.Web\\GLMS.Web.csproj|solutionrelative:glms.web\\patterns\\strategy\\expiredcontractstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{56E79F5A-82FB-7736-7209-956FD67C3CCA}|GLMS.Web\\GLMS.Web.csproj|c:\\users\\rossr\\desktop\\projects\\formative part 2\\personal-formative-2-prog7311\\glms\\glms.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{56E79F5A-82FB-7736-7209-956FD67C3CCA}|GLMS.Web\\GLMS.Web.csproj|solutionrelative:glms.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+      "AbsoluteMoniker": "D:0:0:{56E79F5A-82FB-7736-7209-956FD67C3CCA}|GLMS.Web\\GLMS.Web.csproj|c:\\users\\rossr\\desktop\\projects\\prog7311-poe-part-2\\glms\\glms.web\\patterns\\strategy\\draftcontractstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56E79F5A-82FB-7736-7209-956FD67C3CCA}|GLMS.Web\\GLMS.Web.csproj|solutionrelative:glms.web\\patterns\\strategy\\draftcontractstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{56E79F5A-82FB-7736-7209-956FD67C3CCA}|GLMS.Web\\GLMS.Web.csproj|c:\\users\\rossr\\desktop\\projects\\formative part 2\\personal-formative-2-prog7311\\glms\\glms.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{56E79F5A-82FB-7736-7209-956FD67C3CCA}|GLMS.Web\\GLMS.Web.csproj|solutionrelative:glms.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+      "AbsoluteMoniker": "D:0:0:{56E79F5A-82FB-7736-7209-956FD67C3CCA}|GLMS.Web\\GLMS.Web.csproj|c:\\users\\rossr\\desktop\\projects\\prog7311-poe-part-2\\glms\\glms.web\\patterns\\strategy\\activecontractstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56E79F5A-82FB-7736-7209-956FD67C3CCA}|GLMS.Web\\GLMS.Web.csproj|solutionrelative:glms.web\\patterns\\strategy\\activecontractstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{56E79F5A-82FB-7736-7209-956FD67C3CCA}|GLMS.Web\\GLMS.Web.csproj|c:\\users\\rossr\\desktop\\projects\\formative part 2\\personal-formative-2-prog7311\\glms\\glms.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{56E79F5A-82FB-7736-7209-956FD67C3CCA}|GLMS.Web\\GLMS.Web.csproj|solutionrelative:glms.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+      "AbsoluteMoniker": "D:0:0:{56E79F5A-82FB-7736-7209-956FD67C3CCA}|GLMS.Web\\GLMS.Web.csproj|c:\\users\\rossr\\desktop\\projects\\prog7311-poe-part-2\\glms\\glms.web\\patterns\\observer\\icontractstatusobserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56E79F5A-82FB-7736-7209-956FD67C3CCA}|GLMS.Web\\GLMS.Web.csproj|solutionrelative:glms.web\\patterns\\observer\\icontractstatusobserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{56E79F5A-82FB-7736-7209-956FD67C3CCA}|GLMS.Web\\GLMS.Web.csproj|c:\\users\\rossr\\desktop\\projects\\formative part 2\\personal-formative-2-prog7311\\glms\\glms.web\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{56E79F5A-82FB-7736-7209-956FD67C3CCA}|GLMS.Web\\GLMS.Web.csproj|solutionrelative:glms.web\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+      "AbsoluteMoniker": "D:0:0:{56E79F5A-82FB-7736-7209-956FD67C3CCA}|GLMS.Web\\GLMS.Web.csproj|c:\\users\\rossr\\desktop\\projects\\prog7311-poe-part-2\\glms\\glms.web\\patterns\\observer\\expiryalertobserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56E79F5A-82FB-7736-7209-956FD67C3CCA}|GLMS.Web\\GLMS.Web.csproj|solutionrelative:glms.web\\patterns\\observer\\expiryalertobserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{56E79F5A-82FB-7736-7209-956FD67C3CCA}|GLMS.Web\\GLMS.Web.csproj|c:\\users\\rossr\\desktop\\projects\\formative part 2\\personal-formative-2-prog7311\\glms\\glms.web\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{56E79F5A-82FB-7736-7209-956FD67C3CCA}|GLMS.Web\\GLMS.Web.csproj|solutionrelative:glms.web\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+      "AbsoluteMoniker": "D:0:0:{56E79F5A-82FB-7736-7209-956FD67C3CCA}|GLMS.Web\\GLMS.Web.csproj|c:\\users\\rossr\\desktop\\projects\\prog7311-poe-part-2\\glms\\glms.web\\patterns\\observer\\contractstatuspublisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56E79F5A-82FB-7736-7209-956FD67C3CCA}|GLMS.Web\\GLMS.Web.csproj|solutionrelative:glms.web\\patterns\\observer\\contractstatuspublisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{56E79F5A-82FB-7736-7209-956FD67C3CCA}|GLMS.Web\\GLMS.Web.csproj|c:\\users\\rossr\\desktop\\projects\\formative part 2\\personal-formative-2-prog7311\\glms\\glms.web\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{56E79F5A-82FB-7736-7209-956FD67C3CCA}|GLMS.Web\\GLMS.Web.csproj|solutionrelative:glms.web\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{56E79F5A-82FB-7736-7209-956FD67C3CCA}|GLMS.Web\\GLMS.Web.csproj|c:\\users\\rossr\\desktop\\projects\\prog7311-poe-part-2\\glms\\glms.web\\patterns\\observer\\auditlogobserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56E79F5A-82FB-7736-7209-956FD67C3CCA}|GLMS.Web\\GLMS.Web.csproj|solutionrelative:glms.web\\patterns\\observer\\auditlogobserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BB923F52-7B77-4792-6033-74E953A84482}|GLMS.Tests\\GLMS.Tests.csproj|c:\\users\\rossr\\desktop\\projects\\formative part 2\\personal-formative-2-prog7311\\glms\\glms.tests\\workflowlogictests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BB923F52-7B77-4792-6033-74E953A84482}|GLMS.Tests\\GLMS.Tests.csproj|solutionrelative:glms.tests\\workflowlogictests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{56E79F5A-82FB-7736-7209-956FD67C3CCA}|GLMS.Web\\GLMS.Web.csproj|c:\\users\\rossr\\desktop\\projects\\prog7311-poe-part-2\\glms\\glms.web\\patterns\\factory\\standardcontractfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56E79F5A-82FB-7736-7209-956FD67C3CCA}|GLMS.Web\\GLMS.Web.csproj|solutionrelative:glms.web\\patterns\\factory\\standardcontractfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BB923F52-7B77-4792-6033-74E953A84482}|GLMS.Tests\\GLMS.Tests.csproj|c:\\users\\rossr\\desktop\\projects\\formative part 2\\personal-formative-2-prog7311\\glms\\glms.tests\\contractfactorytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{56E79F5A-82FB-7736-7209-956FD67C3CCA}|GLMS.Web\\GLMS.Web.csproj|c:\\users\\rossr\\desktop\\projects\\prog7311-poe-part-2\\glms\\glms.web\\patterns\\factory\\premiumcontractfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56E79F5A-82FB-7736-7209-956FD67C3CCA}|GLMS.Web\\GLMS.Web.csproj|solutionrelative:glms.web\\patterns\\factory\\premiumcontractfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56E79F5A-82FB-7736-7209-956FD67C3CCA}|GLMS.Web\\GLMS.Web.csproj|c:\\users\\rossr\\desktop\\projects\\prog7311-poe-part-2\\glms\\glms.web\\patterns\\factory\\icontractfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56E79F5A-82FB-7736-7209-956FD67C3CCA}|GLMS.Web\\GLMS.Web.csproj|solutionrelative:glms.web\\patterns\\factory\\icontractfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56E79F5A-82FB-7736-7209-956FD67C3CCA}|GLMS.Web\\GLMS.Web.csproj|c:\\users\\rossr\\desktop\\projects\\prog7311-poe-part-2\\glms\\glms.web\\patterns\\factory\\enterprisecontractfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56E79F5A-82FB-7736-7209-956FD67C3CCA}|GLMS.Web\\GLMS.Web.csproj|solutionrelative:glms.web\\patterns\\factory\\enterprisecontractfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56E79F5A-82FB-7736-7209-956FD67C3CCA}|GLMS.Web\\GLMS.Web.csproj|c:\\users\\rossr\\desktop\\projects\\prog7311-poe-part-2\\glms\\glms.web\\patterns\\factory\\contractfactoryprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56E79F5A-82FB-7736-7209-956FD67C3CCA}|GLMS.Web\\GLMS.Web.csproj|solutionrelative:glms.web\\patterns\\factory\\contractfactoryprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB923F52-7B77-4792-6033-74E953A84482}|GLMS.Tests\\GLMS.Tests.csproj|c:\\users\\rossr\\desktop\\projects\\prog7311-poe-part-2\\glms\\glms.tests\\contractfactorytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BB923F52-7B77-4792-6033-74E953A84482}|GLMS.Tests\\GLMS.Tests.csproj|solutionrelative:glms.tests\\contractfactorytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BB923F52-7B77-4792-6033-74E953A84482}|GLMS.Tests\\GLMS.Tests.csproj|c:\\users\\rossr\\desktop\\projects\\formative part 2\\personal-formative-2-prog7311\\glms\\glms.tests\\currencycalculationtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{56E79F5A-82FB-7736-7209-956FD67C3CCA}|GLMS.Web\\GLMS.Web.csproj|c:\\users\\rossr\\desktop\\projects\\prog7311-poe-part-2\\glms\\glms.web\\repositories\\servicerequestrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56E79F5A-82FB-7736-7209-956FD67C3CCA}|GLMS.Web\\GLMS.Web.csproj|solutionrelative:glms.web\\repositories\\servicerequestrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56E79F5A-82FB-7736-7209-956FD67C3CCA}|GLMS.Web\\GLMS.Web.csproj|c:\\users\\rossr\\desktop\\projects\\prog7311-poe-part-2\\glms\\glms.web\\repositories\\iservicerequestrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56E79F5A-82FB-7736-7209-956FD67C3CCA}|GLMS.Web\\GLMS.Web.csproj|solutionrelative:glms.web\\repositories\\iservicerequestrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56E79F5A-82FB-7736-7209-956FD67C3CCA}|GLMS.Web\\GLMS.Web.csproj|c:\\users\\rossr\\desktop\\projects\\prog7311-poe-part-2\\glms\\glms.web\\repositories\\icontractrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56E79F5A-82FB-7736-7209-956FD67C3CCA}|GLMS.Web\\GLMS.Web.csproj|solutionrelative:glms.web\\repositories\\icontractrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56E79F5A-82FB-7736-7209-956FD67C3CCA}|GLMS.Web\\GLMS.Web.csproj|c:\\users\\rossr\\desktop\\projects\\prog7311-poe-part-2\\glms\\glms.web\\repositories\\iclientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56E79F5A-82FB-7736-7209-956FD67C3CCA}|GLMS.Web\\GLMS.Web.csproj|solutionrelative:glms.web\\repositories\\iclientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56E79F5A-82FB-7736-7209-956FD67C3CCA}|GLMS.Web\\GLMS.Web.csproj|c:\\users\\rossr\\desktop\\projects\\prog7311-poe-part-2\\glms\\glms.web\\repositories\\contractrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56E79F5A-82FB-7736-7209-956FD67C3CCA}|GLMS.Web\\GLMS.Web.csproj|solutionrelative:glms.web\\repositories\\contractrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56E79F5A-82FB-7736-7209-956FD67C3CCA}|GLMS.Web\\GLMS.Web.csproj|c:\\users\\rossr\\desktop\\projects\\prog7311-poe-part-2\\glms\\glms.web\\repositories\\clientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56E79F5A-82FB-7736-7209-956FD67C3CCA}|GLMS.Web\\GLMS.Web.csproj|solutionrelative:glms.web\\repositories\\clientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56E79F5A-82FB-7736-7209-956FD67C3CCA}|GLMS.Web\\GLMS.Web.csproj|c:\\users\\rossr\\desktop\\projects\\prog7311-poe-part-2\\glms\\glms.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56E79F5A-82FB-7736-7209-956FD67C3CCA}|GLMS.Web\\GLMS.Web.csproj|solutionrelative:glms.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56E79F5A-82FB-7736-7209-956FD67C3CCA}|GLMS.Web\\GLMS.Web.csproj|c:\\users\\rossr\\desktop\\projects\\prog7311-poe-part-2\\glms\\glms.web\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{56E79F5A-82FB-7736-7209-956FD67C3CCA}|GLMS.Web\\GLMS.Web.csproj|solutionrelative:glms.web\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56E79F5A-82FB-7736-7209-956FD67C3CCA}|GLMS.Web\\GLMS.Web.csproj|c:\\users\\rossr\\desktop\\projects\\prog7311-poe-part-2\\glms\\glms.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{56E79F5A-82FB-7736-7209-956FD67C3CCA}|GLMS.Web\\GLMS.Web.csproj|solutionrelative:glms.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56E79F5A-82FB-7736-7209-956FD67C3CCA}|GLMS.Web\\GLMS.Web.csproj|c:\\users\\rossr\\desktop\\projects\\prog7311-poe-part-2\\glms\\glms.web\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{56E79F5A-82FB-7736-7209-956FD67C3CCA}|GLMS.Web\\GLMS.Web.csproj|solutionrelative:glms.web\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56E79F5A-82FB-7736-7209-956FD67C3CCA}|GLMS.Web\\GLMS.Web.csproj|c:\\users\\rossr\\desktop\\projects\\prog7311-poe-part-2\\glms\\glms.web\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{56E79F5A-82FB-7736-7209-956FD67C3CCA}|GLMS.Web\\GLMS.Web.csproj|solutionrelative:glms.web\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56E79F5A-82FB-7736-7209-956FD67C3CCA}|GLMS.Web\\GLMS.Web.csproj|c:\\users\\rossr\\desktop\\projects\\prog7311-poe-part-2\\glms\\glms.web\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{56E79F5A-82FB-7736-7209-956FD67C3CCA}|GLMS.Web\\GLMS.Web.csproj|solutionrelative:glms.web\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56E79F5A-82FB-7736-7209-956FD67C3CCA}|GLMS.Web\\GLMS.Web.csproj|c:\\users\\rossr\\desktop\\projects\\prog7311-poe-part-2\\glms\\glms.web\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{56E79F5A-82FB-7736-7209-956FD67C3CCA}|GLMS.Web\\GLMS.Web.csproj|solutionrelative:glms.web\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56E79F5A-82FB-7736-7209-956FD67C3CCA}|GLMS.Web\\GLMS.Web.csproj|c:\\users\\rossr\\desktop\\projects\\prog7311-poe-part-2\\glms\\glms.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{56E79F5A-82FB-7736-7209-956FD67C3CCA}|GLMS.Web\\GLMS.Web.csproj|solutionrelative:glms.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56E79F5A-82FB-7736-7209-956FD67C3CCA}|GLMS.Web\\GLMS.Web.csproj|c:\\users\\rossr\\desktop\\projects\\prog7311-poe-part-2\\glms\\glms.web\\views\\servicerequest\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{56E79F5A-82FB-7736-7209-956FD67C3CCA}|GLMS.Web\\GLMS.Web.csproj|solutionrelative:glms.web\\views\\servicerequest\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56E79F5A-82FB-7736-7209-956FD67C3CCA}|GLMS.Web\\GLMS.Web.csproj|c:\\users\\rossr\\desktop\\projects\\prog7311-poe-part-2\\glms\\glms.web\\views\\servicerequest\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{56E79F5A-82FB-7736-7209-956FD67C3CCA}|GLMS.Web\\GLMS.Web.csproj|solutionrelative:glms.web\\views\\servicerequest\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56E79F5A-82FB-7736-7209-956FD67C3CCA}|GLMS.Web\\GLMS.Web.csproj|c:\\users\\rossr\\desktop\\projects\\prog7311-poe-part-2\\glms\\glms.web\\views\\servicerequest\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{56E79F5A-82FB-7736-7209-956FD67C3CCA}|GLMS.Web\\GLMS.Web.csproj|solutionrelative:glms.web\\views\\servicerequest\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56E79F5A-82FB-7736-7209-956FD67C3CCA}|GLMS.Web\\GLMS.Web.csproj|c:\\users\\rossr\\desktop\\projects\\prog7311-poe-part-2\\glms\\glms.web\\views\\servicerequest\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{56E79F5A-82FB-7736-7209-956FD67C3CCA}|GLMS.Web\\GLMS.Web.csproj|solutionrelative:glms.web\\views\\servicerequest\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56E79F5A-82FB-7736-7209-956FD67C3CCA}|GLMS.Web\\GLMS.Web.csproj|c:\\users\\rossr\\desktop\\projects\\prog7311-poe-part-2\\glms\\glms.web\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{56E79F5A-82FB-7736-7209-956FD67C3CCA}|GLMS.Web\\GLMS.Web.csproj|solutionrelative:glms.web\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56E79F5A-82FB-7736-7209-956FD67C3CCA}|GLMS.Web\\GLMS.Web.csproj|c:\\users\\rossr\\desktop\\projects\\prog7311-poe-part-2\\glms\\glms.web\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{56E79F5A-82FB-7736-7209-956FD67C3CCA}|GLMS.Web\\GLMS.Web.csproj|solutionrelative:glms.web\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56E79F5A-82FB-7736-7209-956FD67C3CCA}|GLMS.Web\\GLMS.Web.csproj|c:\\users\\rossr\\desktop\\projects\\prog7311-poe-part-2\\glms\\glms.web\\views\\contract\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{56E79F5A-82FB-7736-7209-956FD67C3CCA}|GLMS.Web\\GLMS.Web.csproj|solutionrelative:glms.web\\views\\contract\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56E79F5A-82FB-7736-7209-956FD67C3CCA}|GLMS.Web\\GLMS.Web.csproj|c:\\users\\rossr\\desktop\\projects\\prog7311-poe-part-2\\glms\\glms.web\\views\\contract\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{56E79F5A-82FB-7736-7209-956FD67C3CCA}|GLMS.Web\\GLMS.Web.csproj|solutionrelative:glms.web\\views\\contract\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56E79F5A-82FB-7736-7209-956FD67C3CCA}|GLMS.Web\\GLMS.Web.csproj|c:\\users\\rossr\\desktop\\projects\\prog7311-poe-part-2\\glms\\glms.web\\views\\contract\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{56E79F5A-82FB-7736-7209-956FD67C3CCA}|GLMS.Web\\GLMS.Web.csproj|solutionrelative:glms.web\\views\\contract\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56E79F5A-82FB-7736-7209-956FD67C3CCA}|GLMS.Web\\GLMS.Web.csproj|c:\\users\\rossr\\desktop\\projects\\prog7311-poe-part-2\\glms\\glms.web\\views\\contract\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{56E79F5A-82FB-7736-7209-956FD67C3CCA}|GLMS.Web\\GLMS.Web.csproj|solutionrelative:glms.web\\views\\contract\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56E79F5A-82FB-7736-7209-956FD67C3CCA}|GLMS.Web\\GLMS.Web.csproj|c:\\users\\rossr\\desktop\\projects\\prog7311-poe-part-2\\glms\\glms.web\\views\\contract\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{56E79F5A-82FB-7736-7209-956FD67C3CCA}|GLMS.Web\\GLMS.Web.csproj|solutionrelative:glms.web\\views\\contract\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56E79F5A-82FB-7736-7209-956FD67C3CCA}|GLMS.Web\\GLMS.Web.csproj|c:\\users\\rossr\\desktop\\projects\\prog7311-poe-part-2\\glms\\glms.web\\views\\client\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{56E79F5A-82FB-7736-7209-956FD67C3CCA}|GLMS.Web\\GLMS.Web.csproj|solutionrelative:glms.web\\views\\client\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56E79F5A-82FB-7736-7209-956FD67C3CCA}|GLMS.Web\\GLMS.Web.csproj|c:\\users\\rossr\\desktop\\projects\\prog7311-poe-part-2\\glms\\glms.web\\views\\client\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{56E79F5A-82FB-7736-7209-956FD67C3CCA}|GLMS.Web\\GLMS.Web.csproj|solutionrelative:glms.web\\views\\client\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56E79F5A-82FB-7736-7209-956FD67C3CCA}|GLMS.Web\\GLMS.Web.csproj|c:\\users\\rossr\\desktop\\projects\\prog7311-poe-part-2\\glms\\glms.web\\views\\client\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{56E79F5A-82FB-7736-7209-956FD67C3CCA}|GLMS.Web\\GLMS.Web.csproj|solutionrelative:glms.web\\views\\client\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56E79F5A-82FB-7736-7209-956FD67C3CCA}|GLMS.Web\\GLMS.Web.csproj|c:\\users\\rossr\\desktop\\projects\\prog7311-poe-part-2\\glms\\glms.web\\views\\client\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{56E79F5A-82FB-7736-7209-956FD67C3CCA}|GLMS.Web\\GLMS.Web.csproj|solutionrelative:glms.web\\views\\client\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56E79F5A-82FB-7736-7209-956FD67C3CCA}|GLMS.Web\\GLMS.Web.csproj|c:\\users\\rossr\\desktop\\projects\\prog7311-poe-part-2\\glms\\glms.web\\views\\client\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{56E79F5A-82FB-7736-7209-956FD67C3CCA}|GLMS.Web\\GLMS.Web.csproj|solutionrelative:glms.web\\views\\client\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56E79F5A-82FB-7736-7209-956FD67C3CCA}|GLMS.Web\\GLMS.Web.csproj|c:\\users\\rossr\\desktop\\projects\\prog7311-poe-part-2\\glms\\glms.web\\services\\workflowvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56E79F5A-82FB-7736-7209-956FD67C3CCA}|GLMS.Web\\GLMS.Web.csproj|solutionrelative:glms.web\\services\\workflowvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56E79F5A-82FB-7736-7209-956FD67C3CCA}|GLMS.Web\\GLMS.Web.csproj|c:\\users\\rossr\\desktop\\projects\\prog7311-poe-part-2\\glms\\glms.web\\services\\ifileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56E79F5A-82FB-7736-7209-956FD67C3CCA}|GLMS.Web\\GLMS.Web.csproj|solutionrelative:glms.web\\services\\ifileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56E79F5A-82FB-7736-7209-956FD67C3CCA}|GLMS.Web\\GLMS.Web.csproj|c:\\users\\rossr\\desktop\\projects\\prog7311-poe-part-2\\glms\\glms.web\\services\\fileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56E79F5A-82FB-7736-7209-956FD67C3CCA}|GLMS.Web\\GLMS.Web.csproj|solutionrelative:glms.web\\services\\fileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56E79F5A-82FB-7736-7209-956FD67C3CCA}|GLMS.Web\\GLMS.Web.csproj|c:\\users\\rossr\\desktop\\projects\\prog7311-poe-part-2\\glms\\glms.web\\services\\currencycalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56E79F5A-82FB-7736-7209-956FD67C3CCA}|GLMS.Web\\GLMS.Web.csproj|solutionrelative:glms.web\\services\\currencycalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56E79F5A-82FB-7736-7209-956FD67C3CCA}|GLMS.Web\\GLMS.Web.csproj|c:\\users\\rossr\\desktop\\projects\\prog7311-poe-part-2\\glms\\glms.web\\models\\servicerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56E79F5A-82FB-7736-7209-956FD67C3CCA}|GLMS.Web\\GLMS.Web.csproj|solutionrelative:glms.web\\models\\servicerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56E79F5A-82FB-7736-7209-956FD67C3CCA}|GLMS.Web\\GLMS.Web.csproj|c:\\users\\rossr\\desktop\\projects\\prog7311-poe-part-2\\glms\\glms.web\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56E79F5A-82FB-7736-7209-956FD67C3CCA}|GLMS.Web\\GLMS.Web.csproj|solutionrelative:glms.web\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56E79F5A-82FB-7736-7209-956FD67C3CCA}|GLMS.Web\\GLMS.Web.csproj|c:\\users\\rossr\\desktop\\projects\\prog7311-poe-part-2\\glms\\glms.web\\models\\contract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56E79F5A-82FB-7736-7209-956FD67C3CCA}|GLMS.Web\\GLMS.Web.csproj|solutionrelative:glms.web\\models\\contract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56E79F5A-82FB-7736-7209-956FD67C3CCA}|GLMS.Web\\GLMS.Web.csproj|c:\\users\\rossr\\desktop\\projects\\prog7311-poe-part-2\\glms\\glms.web\\models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56E79F5A-82FB-7736-7209-956FD67C3CCA}|GLMS.Web\\GLMS.Web.csproj|solutionrelative:glms.web\\models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56E79F5A-82FB-7736-7209-956FD67C3CCA}|GLMS.Web\\GLMS.Web.csproj|c:\\users\\rossr\\desktop\\projects\\prog7311-poe-part-2\\glms\\glms.web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56E79F5A-82FB-7736-7209-956FD67C3CCA}|GLMS.Web\\GLMS.Web.csproj|solutionrelative:glms.web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB923F52-7B77-4792-6033-74E953A84482}|GLMS.Tests\\GLMS.Tests.csproj|c:\\users\\rossr\\desktop\\projects\\prog7311-poe-part-2\\glms\\glms.tests\\validationstrategytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB923F52-7B77-4792-6033-74E953A84482}|GLMS.Tests\\GLMS.Tests.csproj|solutionrelative:glms.tests\\validationstrategytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56E79F5A-82FB-7736-7209-956FD67C3CCA}|GLMS.Web\\GLMS.Web.csproj|c:\\users\\rossr\\desktop\\projects\\prog7311-poe-part-2\\glms\\glms.web\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56E79F5A-82FB-7736-7209-956FD67C3CCA}|GLMS.Web\\GLMS.Web.csproj|solutionrelative:glms.web\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56E79F5A-82FB-7736-7209-956FD67C3CCA}|GLMS.Web\\GLMS.Web.csproj|c:\\users\\rossr\\desktop\\projects\\prog7311-poe-part-2\\glms\\glms.web\\migrations\\20260420083108_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56E79F5A-82FB-7736-7209-956FD67C3CCA}|GLMS.Web\\GLMS.Web.csproj|solutionrelative:glms.web\\migrations\\20260420083108_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56E79F5A-82FB-7736-7209-956FD67C3CCA}|GLMS.Web\\GLMS.Web.csproj|c:\\users\\rossr\\desktop\\projects\\prog7311-poe-part-2\\glms\\glms.web\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56E79F5A-82FB-7736-7209-956FD67C3CCA}|GLMS.Web\\GLMS.Web.csproj|solutionrelative:glms.web\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56E79F5A-82FB-7736-7209-956FD67C3CCA}|GLMS.Web\\GLMS.Web.csproj|c:\\users\\rossr\\desktop\\projects\\prog7311-poe-part-2\\glms\\glms.web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{56E79F5A-82FB-7736-7209-956FD67C3CCA}|GLMS.Web\\GLMS.Web.csproj|solutionrelative:glms.web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56E79F5A-82FB-7736-7209-956FD67C3CCA}|GLMS.Web\\GLMS.Web.csproj|c:\\users\\rossr\\desktop\\projects\\prog7311-poe-part-2\\glms\\glms.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{56E79F5A-82FB-7736-7209-956FD67C3CCA}|GLMS.Web\\GLMS.Web.csproj|solutionrelative:glms.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56E79F5A-82FB-7736-7209-956FD67C3CCA}|GLMS.Web\\GLMS.Web.csproj|c:\\users\\rossr\\desktop\\projects\\prog7311-poe-part-2\\glms\\glms.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{56E79F5A-82FB-7736-7209-956FD67C3CCA}|GLMS.Web\\GLMS.Web.csproj|solutionrelative:glms.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56E79F5A-82FB-7736-7209-956FD67C3CCA}|GLMS.Web\\GLMS.Web.csproj|c:\\users\\rossr\\desktop\\projects\\prog7311-poe-part-2\\glms\\glms.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{56E79F5A-82FB-7736-7209-956FD67C3CCA}|GLMS.Web\\GLMS.Web.csproj|solutionrelative:glms.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56E79F5A-82FB-7736-7209-956FD67C3CCA}|GLMS.Web\\GLMS.Web.csproj|c:\\users\\rossr\\desktop\\projects\\prog7311-poe-part-2\\glms\\glms.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{56E79F5A-82FB-7736-7209-956FD67C3CCA}|GLMS.Web\\GLMS.Web.csproj|solutionrelative:glms.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56E79F5A-82FB-7736-7209-956FD67C3CCA}|GLMS.Web\\GLMS.Web.csproj|c:\\users\\rossr\\desktop\\projects\\prog7311-poe-part-2\\glms\\glms.web\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{56E79F5A-82FB-7736-7209-956FD67C3CCA}|GLMS.Web\\GLMS.Web.csproj|solutionrelative:glms.web\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56E79F5A-82FB-7736-7209-956FD67C3CCA}|GLMS.Web\\GLMS.Web.csproj|c:\\users\\rossr\\desktop\\projects\\prog7311-poe-part-2\\glms\\glms.web\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{56E79F5A-82FB-7736-7209-956FD67C3CCA}|GLMS.Web\\GLMS.Web.csproj|solutionrelative:glms.web\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56E79F5A-82FB-7736-7209-956FD67C3CCA}|GLMS.Web\\GLMS.Web.csproj|c:\\users\\rossr\\desktop\\projects\\prog7311-poe-part-2\\glms\\glms.web\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{56E79F5A-82FB-7736-7209-956FD67C3CCA}|GLMS.Web\\GLMS.Web.csproj|solutionrelative:glms.web\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB923F52-7B77-4792-6033-74E953A84482}|GLMS.Tests\\GLMS.Tests.csproj|c:\\users\\rossr\\desktop\\projects\\prog7311-poe-part-2\\glms\\glms.tests\\workflowlogictests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB923F52-7B77-4792-6033-74E953A84482}|GLMS.Tests\\GLMS.Tests.csproj|solutionrelative:glms.tests\\workflowlogictests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB923F52-7B77-4792-6033-74E953A84482}|GLMS.Tests\\GLMS.Tests.csproj|c:\\users\\rossr\\desktop\\projects\\prog7311-poe-part-2\\glms\\glms.tests\\currencycalculationtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BB923F52-7B77-4792-6033-74E953A84482}|GLMS.Tests\\GLMS.Tests.csproj|solutionrelative:glms.tests\\currencycalculationtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BB923F52-7B77-4792-6033-74E953A84482}|GLMS.Tests\\GLMS.Tests.csproj|c:\\users\\rossr\\desktop\\projects\\formative part 2\\personal-formative-2-prog7311\\glms\\glms.tests\\filevalidationtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BB923F52-7B77-4792-6033-74E953A84482}|GLMS.Tests\\GLMS.Tests.csproj|c:\\users\\rossr\\desktop\\projects\\prog7311-poe-part-2\\glms\\glms.tests\\filevalidationtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BB923F52-7B77-4792-6033-74E953A84482}|GLMS.Tests\\GLMS.Tests.csproj|solutionrelative:glms.tests\\filevalidationtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BB923F52-7B77-4792-6033-74E953A84482}|GLMS.Tests\\GLMS.Tests.csproj|c:\\users\\rossr\\desktop\\projects\\formative part 2\\personal-formative-2-prog7311\\glms\\glms.tests\\observerpatterntests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BB923F52-7B77-4792-6033-74E953A84482}|GLMS.Tests\\GLMS.Tests.csproj|c:\\users\\rossr\\desktop\\projects\\prog7311-poe-part-2\\glms\\glms.tests\\observerpatterntests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BB923F52-7B77-4792-6033-74E953A84482}|GLMS.Tests\\GLMS.Tests.csproj|solutionrelative:glms.tests\\observerpatterntests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{56E79F5A-82FB-7736-7209-956FD67C3CCA}|GLMS.Web\\GLMS.Web.csproj|c:\\users\\rossr\\desktop\\projects\\formative part 2\\personal-formative-2-prog7311\\glms\\glms.web\\glms.web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{56E79F5A-82FB-7736-7209-956FD67C3CCA}|GLMS.Web\\GLMS.Web.csproj|c:\\users\\rossr\\desktop\\projects\\prog7311-poe-part-2\\glms\\glms.web\\glms.web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{56E79F5A-82FB-7736-7209-956FD67C3CCA}|GLMS.Web\\GLMS.Web.csproj|solutionrelative:glms.web\\glms.web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
@@ -318,60 +318,383 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CurrencyService.cs",
+              "DocumentMoniker": "C:\\Users\\rossr\\Desktop\\Projects\\PROG7311-POE-Part-2\\GLMS\\GLMS.Web\\Services\\CurrencyService.cs",
+              "RelativeDocumentMoniker": "GLMS.Web\\Services\\CurrencyService.cs",
+              "ToolTip": "C:\\Users\\rossr\\Desktop\\Projects\\PROG7311-POE-Part-2\\GLMS\\GLMS.Web\\Services\\CurrencyService.cs",
+              "RelativeToolTip": "GLMS.Web\\Services\\CurrencyService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T17:15:36.588Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ICurrencyService.cs",
+              "DocumentMoniker": "C:\\Users\\rossr\\Desktop\\Projects\\PROG7311-POE-Part-2\\GLMS\\GLMS.Web\\Services\\ICurrencyService.cs",
+              "RelativeDocumentMoniker": "GLMS.Web\\Services\\ICurrencyService.cs",
+              "ToolTip": "C:\\Users\\rossr\\Desktop\\Projects\\PROG7311-POE-Part-2\\GLMS\\GLMS.Web\\Services\\ICurrencyService.cs",
+              "RelativeToolTip": "GLMS.Web\\Services\\ICurrencyService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T17:16:21.514Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ClientController.cs",
+              "DocumentMoniker": "C:\\Users\\rossr\\Desktop\\Projects\\PROG7311-POE-Part-2\\GLMS\\GLMS.Web\\Controllers\\ClientController.cs",
+              "RelativeDocumentMoniker": "GLMS.Web\\Controllers\\ClientController.cs",
+              "ToolTip": "C:\\Users\\rossr\\Desktop\\Projects\\PROG7311-POE-Part-2\\GLMS\\GLMS.Web\\Controllers\\ClientController.cs",
+              "RelativeToolTip": "GLMS.Web\\Controllers\\ClientController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T17:04:56.364Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ContractController.cs",
+              "DocumentMoniker": "C:\\Users\\rossr\\Desktop\\Projects\\PROG7311-POE-Part-2\\GLMS\\GLMS.Web\\Controllers\\ContractController.cs",
+              "RelativeDocumentMoniker": "GLMS.Web\\Controllers\\ContractController.cs",
+              "ToolTip": "C:\\Users\\rossr\\Desktop\\Projects\\PROG7311-POE-Part-2\\GLMS\\GLMS.Web\\Controllers\\ContractController.cs",
+              "RelativeToolTip": "GLMS.Web\\Controllers\\ContractController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T17:04:58.993Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "ServiceRequestController.cs",
+              "DocumentMoniker": "C:\\Users\\rossr\\Desktop\\Projects\\PROG7311-POE-Part-2\\GLMS\\GLMS.Web\\Controllers\\ServiceRequestController.cs",
+              "RelativeDocumentMoniker": "GLMS.Web\\Controllers\\ServiceRequestController.cs",
+              "ToolTip": "C:\\Users\\rossr\\Desktop\\Projects\\PROG7311-POE-Part-2\\GLMS\\GLMS.Web\\Controllers\\ServiceRequestController.cs",
+              "RelativeToolTip": "GLMS.Web\\Controllers\\ServiceRequestController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T17:05:56.674Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ValidationStrategySelector.cs",
+              "DocumentMoniker": "C:\\Users\\rossr\\Desktop\\Projects\\PROG7311-POE-Part-2\\GLMS\\GLMS.Web\\Patterns\\Strategy\\ValidationStrategySelector.cs",
+              "RelativeDocumentMoniker": "GLMS.Web\\Patterns\\Strategy\\ValidationStrategySelector.cs",
+              "ToolTip": "C:\\Users\\rossr\\Desktop\\Projects\\PROG7311-POE-Part-2\\GLMS\\GLMS.Web\\Patterns\\Strategy\\ValidationStrategySelector.cs",
+              "RelativeToolTip": "GLMS.Web\\Patterns\\Strategy\\ValidationStrategySelector.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T17:14:29.063Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "OnHoldContractStrategy.cs",
+              "DocumentMoniker": "C:\\Users\\rossr\\Desktop\\Projects\\PROG7311-POE-Part-2\\GLMS\\GLMS.Web\\Patterns\\Strategy\\OnHoldContractStrategy.cs",
+              "RelativeDocumentMoniker": "GLMS.Web\\Patterns\\Strategy\\OnHoldContractStrategy.cs",
+              "ToolTip": "C:\\Users\\rossr\\Desktop\\Projects\\PROG7311-POE-Part-2\\GLMS\\GLMS.Web\\Patterns\\Strategy\\OnHoldContractStrategy.cs",
+              "RelativeToolTip": "GLMS.Web\\Patterns\\Strategy\\OnHoldContractStrategy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T17:14:22.812Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IServiceRequestValidationStrategy.cs",
+              "DocumentMoniker": "C:\\Users\\rossr\\Desktop\\Projects\\PROG7311-POE-Part-2\\GLMS\\GLMS.Web\\Patterns\\Strategy\\IServiceRequestValidationStrategy.cs",
+              "RelativeDocumentMoniker": "GLMS.Web\\Patterns\\Strategy\\IServiceRequestValidationStrategy.cs",
+              "ToolTip": "C:\\Users\\rossr\\Desktop\\Projects\\PROG7311-POE-Part-2\\GLMS\\GLMS.Web\\Patterns\\Strategy\\IServiceRequestValidationStrategy.cs",
+              "RelativeToolTip": "GLMS.Web\\Patterns\\Strategy\\IServiceRequestValidationStrategy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T17:14:05.974Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ExpiredContractStrategy.cs",
+              "DocumentMoniker": "C:\\Users\\rossr\\Desktop\\Projects\\PROG7311-POE-Part-2\\GLMS\\GLMS.Web\\Patterns\\Strategy\\ExpiredContractStrategy.cs",
+              "RelativeDocumentMoniker": "GLMS.Web\\Patterns\\Strategy\\ExpiredContractStrategy.cs",
+              "ToolTip": "C:\\Users\\rossr\\Desktop\\Projects\\PROG7311-POE-Part-2\\GLMS\\GLMS.Web\\Patterns\\Strategy\\ExpiredContractStrategy.cs",
+              "RelativeToolTip": "GLMS.Web\\Patterns\\Strategy\\ExpiredContractStrategy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T17:14:02.285Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DraftContractStrategy.cs",
+              "DocumentMoniker": "C:\\Users\\rossr\\Desktop\\Projects\\PROG7311-POE-Part-2\\GLMS\\GLMS.Web\\Patterns\\Strategy\\DraftContractStrategy.cs",
+              "RelativeDocumentMoniker": "GLMS.Web\\Patterns\\Strategy\\DraftContractStrategy.cs",
+              "ToolTip": "C:\\Users\\rossr\\Desktop\\Projects\\PROG7311-POE-Part-2\\GLMS\\GLMS.Web\\Patterns\\Strategy\\DraftContractStrategy.cs",
+              "RelativeToolTip": "GLMS.Web\\Patterns\\Strategy\\DraftContractStrategy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T17:13:58.38Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ActiveContractStrategy.cs",
+              "DocumentMoniker": "C:\\Users\\rossr\\Desktop\\Projects\\PROG7311-POE-Part-2\\GLMS\\GLMS.Web\\Patterns\\Strategy\\ActiveContractStrategy.cs",
+              "RelativeDocumentMoniker": "GLMS.Web\\Patterns\\Strategy\\ActiveContractStrategy.cs",
+              "ToolTip": "C:\\Users\\rossr\\Desktop\\Projects\\PROG7311-POE-Part-2\\GLMS\\GLMS.Web\\Patterns\\Strategy\\ActiveContractStrategy.cs",
+              "RelativeToolTip": "GLMS.Web\\Patterns\\Strategy\\ActiveContractStrategy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T17:13:53.579Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IContractStatusObserver.cs",
+              "DocumentMoniker": "C:\\Users\\rossr\\Desktop\\Projects\\PROG7311-POE-Part-2\\GLMS\\GLMS.Web\\Patterns\\Observer\\IContractStatusObserver.cs",
+              "RelativeDocumentMoniker": "GLMS.Web\\Patterns\\Observer\\IContractStatusObserver.cs",
+              "ToolTip": "C:\\Users\\rossr\\Desktop\\Projects\\PROG7311-POE-Part-2\\GLMS\\GLMS.Web\\Patterns\\Observer\\IContractStatusObserver.cs",
+              "RelativeToolTip": "GLMS.Web\\Patterns\\Observer\\IContractStatusObserver.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T17:13:08.38Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ExpiryAlertObserver.cs",
+              "DocumentMoniker": "C:\\Users\\rossr\\Desktop\\Projects\\PROG7311-POE-Part-2\\GLMS\\GLMS.Web\\Patterns\\Observer\\ExpiryAlertObserver.cs",
+              "RelativeDocumentMoniker": "GLMS.Web\\Patterns\\Observer\\ExpiryAlertObserver.cs",
+              "ToolTip": "C:\\Users\\rossr\\Desktop\\Projects\\PROG7311-POE-Part-2\\GLMS\\GLMS.Web\\Patterns\\Observer\\ExpiryAlertObserver.cs",
+              "RelativeToolTip": "GLMS.Web\\Patterns\\Observer\\ExpiryAlertObserver.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T17:12:14.227Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ContractStatusPublisher.cs",
+              "DocumentMoniker": "C:\\Users\\rossr\\Desktop\\Projects\\PROG7311-POE-Part-2\\GLMS\\GLMS.Web\\Patterns\\Observer\\ContractStatusPublisher.cs",
+              "RelativeDocumentMoniker": "GLMS.Web\\Patterns\\Observer\\ContractStatusPublisher.cs",
+              "ToolTip": "C:\\Users\\rossr\\Desktop\\Projects\\PROG7311-POE-Part-2\\GLMS\\GLMS.Web\\Patterns\\Observer\\ContractStatusPublisher.cs",
+              "RelativeToolTip": "GLMS.Web\\Patterns\\Observer\\ContractStatusPublisher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T17:12:09.463Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AuditLogObserver.cs",
+              "DocumentMoniker": "C:\\Users\\rossr\\Desktop\\Projects\\PROG7311-POE-Part-2\\GLMS\\GLMS.Web\\Patterns\\Observer\\AuditLogObserver.cs",
+              "RelativeDocumentMoniker": "GLMS.Web\\Patterns\\Observer\\AuditLogObserver.cs",
+              "ToolTip": "C:\\Users\\rossr\\Desktop\\Projects\\PROG7311-POE-Part-2\\GLMS\\GLMS.Web\\Patterns\\Observer\\AuditLogObserver.cs",
+              "RelativeToolTip": "GLMS.Web\\Patterns\\Observer\\AuditLogObserver.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T17:12:02.838Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "StandardContractFactory.cs",
+              "DocumentMoniker": "C:\\Users\\rossr\\Desktop\\Projects\\PROG7311-POE-Part-2\\GLMS\\GLMS.Web\\Patterns\\Factory\\StandardContractFactory.cs",
+              "RelativeDocumentMoniker": "GLMS.Web\\Patterns\\Factory\\StandardContractFactory.cs",
+              "ToolTip": "C:\\Users\\rossr\\Desktop\\Projects\\PROG7311-POE-Part-2\\GLMS\\GLMS.Web\\Patterns\\Factory\\StandardContractFactory.cs",
+              "RelativeToolTip": "GLMS.Web\\Patterns\\Factory\\StandardContractFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T17:08:16.751Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "PremiumContractFactory.cs",
+              "DocumentMoniker": "C:\\Users\\rossr\\Desktop\\Projects\\PROG7311-POE-Part-2\\GLMS\\GLMS.Web\\Patterns\\Factory\\PremiumContractFactory.cs",
+              "RelativeDocumentMoniker": "GLMS.Web\\Patterns\\Factory\\PremiumContractFactory.cs",
+              "ToolTip": "C:\\Users\\rossr\\Desktop\\Projects\\PROG7311-POE-Part-2\\GLMS\\GLMS.Web\\Patterns\\Factory\\PremiumContractFactory.cs",
+              "RelativeToolTip": "GLMS.Web\\Patterns\\Factory\\PremiumContractFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T17:08:11.737Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IContractFactory.cs",
+              "DocumentMoniker": "C:\\Users\\rossr\\Desktop\\Projects\\PROG7311-POE-Part-2\\GLMS\\GLMS.Web\\Patterns\\Factory\\IContractFactory.cs",
+              "RelativeDocumentMoniker": "GLMS.Web\\Patterns\\Factory\\IContractFactory.cs",
+              "ToolTip": "C:\\Users\\rossr\\Desktop\\Projects\\PROG7311-POE-Part-2\\GLMS\\GLMS.Web\\Patterns\\Factory\\IContractFactory.cs",
+              "RelativeToolTip": "GLMS.Web\\Patterns\\Factory\\IContractFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T17:08:07.997Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "EnterpriseContractFactory.cs",
+              "DocumentMoniker": "C:\\Users\\rossr\\Desktop\\Projects\\PROG7311-POE-Part-2\\GLMS\\GLMS.Web\\Patterns\\Factory\\EnterpriseContractFactory.cs",
+              "RelativeDocumentMoniker": "GLMS.Web\\Patterns\\Factory\\EnterpriseContractFactory.cs",
+              "ToolTip": "C:\\Users\\rossr\\Desktop\\Projects\\PROG7311-POE-Part-2\\GLMS\\GLMS.Web\\Patterns\\Factory\\EnterpriseContractFactory.cs",
+              "RelativeToolTip": "GLMS.Web\\Patterns\\Factory\\EnterpriseContractFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T17:08:03.333Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ContractFactoryProvider.cs",
+              "DocumentMoniker": "C:\\Users\\rossr\\Desktop\\Projects\\PROG7311-POE-Part-2\\GLMS\\GLMS.Web\\Patterns\\Factory\\ContractFactoryProvider.cs",
+              "RelativeDocumentMoniker": "GLMS.Web\\Patterns\\Factory\\ContractFactoryProvider.cs",
+              "ToolTip": "C:\\Users\\rossr\\Desktop\\Projects\\PROG7311-POE-Part-2\\GLMS\\GLMS.Web\\Patterns\\Factory\\ContractFactoryProvider.cs",
+              "RelativeToolTip": "GLMS.Web\\Patterns\\Factory\\ContractFactoryProvider.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T17:07:57.182Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ContractFactoryTests.cs",
+              "DocumentMoniker": "C:\\Users\\rossr\\Desktop\\Projects\\PROG7311-POE-Part-2\\GLMS\\GLMS.Tests\\ContractFactoryTests.cs",
+              "RelativeDocumentMoniker": "GLMS.Tests\\ContractFactoryTests.cs",
+              "ToolTip": "C:\\Users\\rossr\\Desktop\\Projects\\PROG7311-POE-Part-2\\GLMS\\GLMS.Tests\\ContractFactoryTests.cs",
+              "RelativeToolTip": "GLMS.Tests\\ContractFactoryTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T16:52:55.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ServiceRequestRepository.cs",
+              "DocumentMoniker": "C:\\Users\\rossr\\Desktop\\Projects\\PROG7311-POE-Part-2\\GLMS\\GLMS.Web\\Repositories\\ServiceRequestRepository.cs",
+              "RelativeDocumentMoniker": "GLMS.Web\\Repositories\\ServiceRequestRepository.cs",
+              "ToolTip": "C:\\Users\\rossr\\Desktop\\Projects\\PROG7311-POE-Part-2\\GLMS\\GLMS.Web\\Repositories\\ServiceRequestRepository.cs",
+              "RelativeToolTip": "GLMS.Web\\Repositories\\ServiceRequestRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T17:15:13.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "IServiceRequestRepository.cs",
+              "DocumentMoniker": "C:\\Users\\rossr\\Desktop\\Projects\\PROG7311-POE-Part-2\\GLMS\\GLMS.Web\\Repositories\\IServiceRequestRepository.cs",
+              "RelativeDocumentMoniker": "GLMS.Web\\Repositories\\IServiceRequestRepository.cs",
+              "ToolTip": "C:\\Users\\rossr\\Desktop\\Projects\\PROG7311-POE-Part-2\\GLMS\\GLMS.Web\\Repositories\\IServiceRequestRepository.cs",
+              "RelativeToolTip": "GLMS.Web\\Repositories\\IServiceRequestRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T17:15:08.273Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "IContractRepository.cs",
+              "DocumentMoniker": "C:\\Users\\rossr\\Desktop\\Projects\\PROG7311-POE-Part-2\\GLMS\\GLMS.Web\\Repositories\\IContractRepository.cs",
+              "RelativeDocumentMoniker": "GLMS.Web\\Repositories\\IContractRepository.cs",
+              "ToolTip": "C:\\Users\\rossr\\Desktop\\Projects\\PROG7311-POE-Part-2\\GLMS\\GLMS.Web\\Repositories\\IContractRepository.cs",
+              "RelativeToolTip": "GLMS.Web\\Repositories\\IContractRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T17:15:04.409Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "IClientRepository.cs",
+              "DocumentMoniker": "C:\\Users\\rossr\\Desktop\\Projects\\PROG7311-POE-Part-2\\GLMS\\GLMS.Web\\Repositories\\IClientRepository.cs",
+              "RelativeDocumentMoniker": "GLMS.Web\\Repositories\\IClientRepository.cs",
+              "ToolTip": "C:\\Users\\rossr\\Desktop\\Projects\\PROG7311-POE-Part-2\\GLMS\\GLMS.Web\\Repositories\\IClientRepository.cs",
+              "RelativeToolTip": "GLMS.Web\\Repositories\\IClientRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T17:14:59.14Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ContractRepository.cs",
+              "DocumentMoniker": "C:\\Users\\rossr\\Desktop\\Projects\\PROG7311-POE-Part-2\\GLMS\\GLMS.Web\\Repositories\\ContractRepository.cs",
+              "RelativeDocumentMoniker": "GLMS.Web\\Repositories\\ContractRepository.cs",
+              "ToolTip": "C:\\Users\\rossr\\Desktop\\Projects\\PROG7311-POE-Part-2\\GLMS\\GLMS.Web\\Repositories\\ContractRepository.cs",
+              "RelativeToolTip": "GLMS.Web\\Repositories\\ContractRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T17:14:41.153Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ClientRepository.cs",
+              "DocumentMoniker": "C:\\Users\\rossr\\Desktop\\Projects\\PROG7311-POE-Part-2\\GLMS\\GLMS.Web\\Repositories\\ClientRepository.cs",
+              "RelativeDocumentMoniker": "GLMS.Web\\Repositories\\ClientRepository.cs",
+              "ToolTip": "C:\\Users\\rossr\\Desktop\\Projects\\PROG7311-POE-Part-2\\GLMS\\GLMS.Web\\Repositories\\ClientRepository.cs",
+              "RelativeToolTip": "GLMS.Web\\Repositories\\ClientRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T17:14:35.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\rossr\\Desktop\\Projects\\Formative Part 2\\Personal-Formative-2-PROG7311\\GLMS\\GLMS.Web\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\rossr\\Desktop\\Projects\\PROG7311-POE-Part-2\\GLMS\\GLMS.Web\\Program.cs",
               "RelativeDocumentMoniker": "GLMS.Web\\Program.cs",
-              "ToolTip": "C:\\Users\\rossr\\Desktop\\Projects\\Formative Part 2\\Personal-Formative-2-PROG7311\\GLMS\\GLMS.Web\\Program.cs",
+              "ToolTip": "C:\\Users\\rossr\\Desktop\\Projects\\PROG7311-POE-Part-2\\GLMS\\GLMS.Web\\Program.cs",
               "RelativeToolTip": "GLMS.Web\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFQAAAAgAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-22T17:19:32.225Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "appsettings.Development.json",
-              "DocumentMoniker": "C:\\Users\\rossr\\Desktop\\Projects\\Formative Part 2\\Personal-Formative-2-PROG7311\\GLMS\\GLMS.Web\\appsettings.Development.json",
-              "RelativeDocumentMoniker": "GLMS.Web\\appsettings.Development.json",
-              "ToolTip": "C:\\Users\\rossr\\Desktop\\Projects\\Formative Part 2\\Personal-Formative-2-PROG7311\\GLMS\\GLMS.Web\\appsettings.Development.json",
-              "RelativeToolTip": "GLMS.Web\\appsettings.Development.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-04-22T17:19:29.817Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "C:\\Users\\rossr\\Desktop\\Projects\\Formative Part 2\\Personal-Formative-2-PROG7311\\GLMS\\GLMS.Web\\Views\\_ViewStart.cshtml",
-              "RelativeDocumentMoniker": "GLMS.Web\\Views\\_ViewStart.cshtml",
-              "ToolTip": "C:\\Users\\rossr\\Desktop\\Projects\\Formative Part 2\\Personal-Formative-2-PROG7311\\GLMS\\GLMS.Web\\Views\\_ViewStart.cshtml",
-              "RelativeToolTip": "GLMS.Web\\Views\\_ViewStart.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-04-22T17:19:25.073Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 31,
               "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "C:\\Users\\rossr\\Desktop\\Projects\\Formative Part 2\\Personal-Formative-2-PROG7311\\GLMS\\GLMS.Web\\Views\\_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\rossr\\Desktop\\Projects\\PROG7311-POE-Part-2\\GLMS\\GLMS.Web\\Views\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "GLMS.Web\\Views\\_ViewImports.cshtml",
-              "ToolTip": "C:\\Users\\rossr\\Desktop\\Projects\\Formative Part 2\\Personal-Formative-2-PROG7311\\GLMS\\GLMS.Web\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\rossr\\Desktop\\Projects\\PROG7311-POE-Part-2\\GLMS\\GLMS.Web\\Views\\_ViewImports.cshtml",
               "RelativeToolTip": "GLMS.Web\\Views\\_ViewImports.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -379,11 +702,39 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 30,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\rossr\\Desktop\\Projects\\PROG7311-POE-Part-2\\GLMS\\GLMS.Web\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "GLMS.Web\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\rossr\\Desktop\\Projects\\PROG7311-POE-Part-2\\GLMS\\GLMS.Web\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "GLMS.Web\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-22T17:19:25.073Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\rossr\\Desktop\\Projects\\PROG7311-POE-Part-2\\GLMS\\GLMS.Web\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "GLMS.Web\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\rossr\\Desktop\\Projects\\PROG7311-POE-Part-2\\GLMS\\GLMS.Web\\appsettings.Development.json",
+              "RelativeToolTip": "GLMS.Web\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-22T17:19:29.817Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
               "Title": "Error.cshtml",
-              "DocumentMoniker": "C:\\Users\\rossr\\Desktop\\Projects\\Formative Part 2\\Personal-Formative-2-PROG7311\\GLMS\\GLMS.Web\\Views\\Shared\\Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\rossr\\Desktop\\Projects\\PROG7311-POE-Part-2\\GLMS\\GLMS.Web\\Views\\Shared\\Error.cshtml",
               "RelativeDocumentMoniker": "GLMS.Web\\Views\\Shared\\Error.cshtml",
-              "ToolTip": "C:\\Users\\rossr\\Desktop\\Projects\\Formative Part 2\\Personal-Formative-2-PROG7311\\GLMS\\GLMS.Web\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\rossr\\Desktop\\Projects\\PROG7311-POE-Part-2\\GLMS\\GLMS.Web\\Views\\Shared\\Error.cshtml",
               "RelativeToolTip": "GLMS.Web\\Views\\Shared\\Error.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -391,11 +742,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 33,
               "Title": "_ValidationScriptsPartial.cshtml",
-              "DocumentMoniker": "C:\\Users\\rossr\\Desktop\\Projects\\Formative Part 2\\Personal-Formative-2-PROG7311\\GLMS\\GLMS.Web\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\rossr\\Desktop\\Projects\\PROG7311-POE-Part-2\\GLMS\\GLMS.Web\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
               "RelativeDocumentMoniker": "GLMS.Web\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "ToolTip": "C:\\Users\\rossr\\Desktop\\Projects\\Formative Part 2\\Personal-Formative-2-PROG7311\\GLMS\\GLMS.Web\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\rossr\\Desktop\\Projects\\PROG7311-POE-Part-2\\GLMS\\GLMS.Web\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
               "RelativeToolTip": "GLMS.Web\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -403,11 +754,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 34,
               "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\rossr\\Desktop\\Projects\\Formative Part 2\\Personal-Formative-2-PROG7311\\GLMS\\GLMS.Web\\Views\\Shared\\_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\rossr\\Desktop\\Projects\\PROG7311-POE-Part-2\\GLMS\\GLMS.Web\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "GLMS.Web\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\rossr\\Desktop\\Projects\\Formative Part 2\\Personal-Formative-2-PROG7311\\GLMS\\GLMS.Web\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\rossr\\Desktop\\Projects\\PROG7311-POE-Part-2\\GLMS\\GLMS.Web\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "GLMS.Web\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAAAUBAAAAAAAAAAAAAPgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -415,11 +766,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 35,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\rossr\\Desktop\\Projects\\Formative Part 2\\Personal-Formative-2-PROG7311\\GLMS\\GLMS.Web\\Views\\ServiceRequest\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\rossr\\Desktop\\Projects\\PROG7311-POE-Part-2\\GLMS\\GLMS.Web\\Views\\ServiceRequest\\Index.cshtml",
               "RelativeDocumentMoniker": "GLMS.Web\\Views\\ServiceRequest\\Index.cshtml",
-              "ToolTip": "C:\\Users\\rossr\\Desktop\\Projects\\Formative Part 2\\Personal-Formative-2-PROG7311\\GLMS\\GLMS.Web\\Views\\ServiceRequest\\Index.cshtml",
+              "ToolTip": "C:\\Users\\rossr\\Desktop\\Projects\\PROG7311-POE-Part-2\\GLMS\\GLMS.Web\\Views\\ServiceRequest\\Index.cshtml",
               "RelativeToolTip": "GLMS.Web\\Views\\ServiceRequest\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -427,11 +778,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 36,
               "Title": "Details.cshtml",
-              "DocumentMoniker": "C:\\Users\\rossr\\Desktop\\Projects\\Formative Part 2\\Personal-Formative-2-PROG7311\\GLMS\\GLMS.Web\\Views\\ServiceRequest\\Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\rossr\\Desktop\\Projects\\PROG7311-POE-Part-2\\GLMS\\GLMS.Web\\Views\\ServiceRequest\\Details.cshtml",
               "RelativeDocumentMoniker": "GLMS.Web\\Views\\ServiceRequest\\Details.cshtml",
-              "ToolTip": "C:\\Users\\rossr\\Desktop\\Projects\\Formative Part 2\\Personal-Formative-2-PROG7311\\GLMS\\GLMS.Web\\Views\\ServiceRequest\\Details.cshtml",
+              "ToolTip": "C:\\Users\\rossr\\Desktop\\Projects\\PROG7311-POE-Part-2\\GLMS\\GLMS.Web\\Views\\ServiceRequest\\Details.cshtml",
               "RelativeToolTip": "GLMS.Web\\Views\\ServiceRequest\\Details.cshtml",
               "ViewState": "AgIAABgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -439,11 +790,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 37,
               "Title": "Delete.cshtml",
-              "DocumentMoniker": "C:\\Users\\rossr\\Desktop\\Projects\\Formative Part 2\\Personal-Formative-2-PROG7311\\GLMS\\GLMS.Web\\Views\\ServiceRequest\\Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\rossr\\Desktop\\Projects\\PROG7311-POE-Part-2\\GLMS\\GLMS.Web\\Views\\ServiceRequest\\Delete.cshtml",
               "RelativeDocumentMoniker": "GLMS.Web\\Views\\ServiceRequest\\Delete.cshtml",
-              "ToolTip": "C:\\Users\\rossr\\Desktop\\Projects\\Formative Part 2\\Personal-Formative-2-PROG7311\\GLMS\\GLMS.Web\\Views\\ServiceRequest\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\rossr\\Desktop\\Projects\\PROG7311-POE-Part-2\\GLMS\\GLMS.Web\\Views\\ServiceRequest\\Delete.cshtml",
               "RelativeToolTip": "GLMS.Web\\Views\\ServiceRequest\\Delete.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -451,11 +802,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 38,
               "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\rossr\\Desktop\\Projects\\Formative Part 2\\Personal-Formative-2-PROG7311\\GLMS\\GLMS.Web\\Views\\ServiceRequest\\Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\rossr\\Desktop\\Projects\\PROG7311-POE-Part-2\\GLMS\\GLMS.Web\\Views\\ServiceRequest\\Create.cshtml",
               "RelativeDocumentMoniker": "GLMS.Web\\Views\\ServiceRequest\\Create.cshtml",
-              "ToolTip": "C:\\Users\\rossr\\Desktop\\Projects\\Formative Part 2\\Personal-Formative-2-PROG7311\\GLMS\\GLMS.Web\\Views\\ServiceRequest\\Create.cshtml",
+              "ToolTip": "C:\\Users\\rossr\\Desktop\\Projects\\PROG7311-POE-Part-2\\GLMS\\GLMS.Web\\Views\\ServiceRequest\\Create.cshtml",
               "RelativeToolTip": "GLMS.Web\\Views\\ServiceRequest\\Create.cshtml",
               "ViewState": "AgIAAHIAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -463,11 +814,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 39,
               "Title": "Privacy.cshtml",
-              "DocumentMoniker": "C:\\Users\\rossr\\Desktop\\Projects\\Formative Part 2\\Personal-Formative-2-PROG7311\\GLMS\\GLMS.Web\\Views\\Home\\Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\rossr\\Desktop\\Projects\\PROG7311-POE-Part-2\\GLMS\\GLMS.Web\\Views\\Home\\Privacy.cshtml",
               "RelativeDocumentMoniker": "GLMS.Web\\Views\\Home\\Privacy.cshtml",
-              "ToolTip": "C:\\Users\\rossr\\Desktop\\Projects\\Formative Part 2\\Personal-Formative-2-PROG7311\\GLMS\\GLMS.Web\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\rossr\\Desktop\\Projects\\PROG7311-POE-Part-2\\GLMS\\GLMS.Web\\Views\\Home\\Privacy.cshtml",
               "RelativeToolTip": "GLMS.Web\\Views\\Home\\Privacy.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -475,11 +826,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 40,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\rossr\\Desktop\\Projects\\Formative Part 2\\Personal-Formative-2-PROG7311\\GLMS\\GLMS.Web\\Views\\Home\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\rossr\\Desktop\\Projects\\PROG7311-POE-Part-2\\GLMS\\GLMS.Web\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "GLMS.Web\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\rossr\\Desktop\\Projects\\Formative Part 2\\Personal-Formative-2-PROG7311\\GLMS\\GLMS.Web\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\rossr\\Desktop\\Projects\\PROG7311-POE-Part-2\\GLMS\\GLMS.Web\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "GLMS.Web\\Views\\Home\\Index.cshtml",
               "ViewState": "AgIAAFcAAAAAAAAAAAAAACgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -487,11 +838,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 29,
               "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\rossr\\Desktop\\Projects\\Formative Part 2\\Personal-Formative-2-PROG7311\\GLMS\\GLMS.Web\\appsettings.json",
+              "DocumentMoniker": "C:\\Users\\rossr\\Desktop\\Projects\\PROG7311-POE-Part-2\\GLMS\\GLMS.Web\\appsettings.json",
               "RelativeDocumentMoniker": "GLMS.Web\\appsettings.json",
-              "ToolTip": "C:\\Users\\rossr\\Desktop\\Projects\\Formative Part 2\\Personal-Formative-2-PROG7311\\GLMS\\GLMS.Web\\appsettings.json",
+              "ToolTip": "C:\\Users\\rossr\\Desktop\\Projects\\PROG7311-POE-Part-2\\GLMS\\GLMS.Web\\appsettings.json",
               "RelativeToolTip": "GLMS.Web\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -499,11 +850,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 41,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\rossr\\Desktop\\Projects\\Formative Part 2\\Personal-Formative-2-PROG7311\\GLMS\\GLMS.Web\\Views\\Contract\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\rossr\\Desktop\\Projects\\PROG7311-POE-Part-2\\GLMS\\GLMS.Web\\Views\\Contract\\Index.cshtml",
               "RelativeDocumentMoniker": "GLMS.Web\\Views\\Contract\\Index.cshtml",
-              "ToolTip": "C:\\Users\\rossr\\Desktop\\Projects\\Formative Part 2\\Personal-Formative-2-PROG7311\\GLMS\\GLMS.Web\\Views\\Contract\\Index.cshtml",
+              "ToolTip": "C:\\Users\\rossr\\Desktop\\Projects\\PROG7311-POE-Part-2\\GLMS\\GLMS.Web\\Views\\Contract\\Index.cshtml",
               "RelativeToolTip": "GLMS.Web\\Views\\Contract\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -511,11 +862,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 42,
               "Title": "Edit.cshtml",
-              "DocumentMoniker": "C:\\Users\\rossr\\Desktop\\Projects\\Formative Part 2\\Personal-Formative-2-PROG7311\\GLMS\\GLMS.Web\\Views\\Contract\\Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\rossr\\Desktop\\Projects\\PROG7311-POE-Part-2\\GLMS\\GLMS.Web\\Views\\Contract\\Edit.cshtml",
               "RelativeDocumentMoniker": "GLMS.Web\\Views\\Contract\\Edit.cshtml",
-              "ToolTip": "C:\\Users\\rossr\\Desktop\\Projects\\Formative Part 2\\Personal-Formative-2-PROG7311\\GLMS\\GLMS.Web\\Views\\Contract\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\rossr\\Desktop\\Projects\\PROG7311-POE-Part-2\\GLMS\\GLMS.Web\\Views\\Contract\\Edit.cshtml",
               "RelativeToolTip": "GLMS.Web\\Views\\Contract\\Edit.cshtml",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -523,11 +874,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 43,
               "Title": "Details.cshtml",
-              "DocumentMoniker": "C:\\Users\\rossr\\Desktop\\Projects\\Formative Part 2\\Personal-Formative-2-PROG7311\\GLMS\\GLMS.Web\\Views\\Contract\\Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\rossr\\Desktop\\Projects\\PROG7311-POE-Part-2\\GLMS\\GLMS.Web\\Views\\Contract\\Details.cshtml",
               "RelativeDocumentMoniker": "GLMS.Web\\Views\\Contract\\Details.cshtml",
-              "ToolTip": "C:\\Users\\rossr\\Desktop\\Projects\\Formative Part 2\\Personal-Formative-2-PROG7311\\GLMS\\GLMS.Web\\Views\\Contract\\Details.cshtml",
+              "ToolTip": "C:\\Users\\rossr\\Desktop\\Projects\\PROG7311-POE-Part-2\\GLMS\\GLMS.Web\\Views\\Contract\\Details.cshtml",
               "RelativeToolTip": "GLMS.Web\\Views\\Contract\\Details.cshtml",
               "ViewState": "AgIAAD8AAAAAAAAAAAAAADkAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -535,11 +886,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 44,
               "Title": "Delete.cshtml",
-              "DocumentMoniker": "C:\\Users\\rossr\\Desktop\\Projects\\Formative Part 2\\Personal-Formative-2-PROG7311\\GLMS\\GLMS.Web\\Views\\Contract\\Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\rossr\\Desktop\\Projects\\PROG7311-POE-Part-2\\GLMS\\GLMS.Web\\Views\\Contract\\Delete.cshtml",
               "RelativeDocumentMoniker": "GLMS.Web\\Views\\Contract\\Delete.cshtml",
-              "ToolTip": "C:\\Users\\rossr\\Desktop\\Projects\\Formative Part 2\\Personal-Formative-2-PROG7311\\GLMS\\GLMS.Web\\Views\\Contract\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\rossr\\Desktop\\Projects\\PROG7311-POE-Part-2\\GLMS\\GLMS.Web\\Views\\Contract\\Delete.cshtml",
               "RelativeToolTip": "GLMS.Web\\Views\\Contract\\Delete.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -547,11 +898,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 45,
               "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\rossr\\Desktop\\Projects\\Formative Part 2\\Personal-Formative-2-PROG7311\\GLMS\\GLMS.Web\\Views\\Contract\\Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\rossr\\Desktop\\Projects\\PROG7311-POE-Part-2\\GLMS\\GLMS.Web\\Views\\Contract\\Create.cshtml",
               "RelativeDocumentMoniker": "GLMS.Web\\Views\\Contract\\Create.cshtml",
-              "ToolTip": "C:\\Users\\rossr\\Desktop\\Projects\\Formative Part 2\\Personal-Formative-2-PROG7311\\GLMS\\GLMS.Web\\Views\\Contract\\Create.cshtml",
+              "ToolTip": "C:\\Users\\rossr\\Desktop\\Projects\\PROG7311-POE-Part-2\\GLMS\\GLMS.Web\\Views\\Contract\\Create.cshtml",
               "RelativeToolTip": "GLMS.Web\\Views\\Contract\\Create.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -559,11 +910,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 46,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\rossr\\Desktop\\Projects\\Formative Part 2\\Personal-Formative-2-PROG7311\\GLMS\\GLMS.Web\\Views\\Client\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\rossr\\Desktop\\Projects\\PROG7311-POE-Part-2\\GLMS\\GLMS.Web\\Views\\Client\\Index.cshtml",
               "RelativeDocumentMoniker": "GLMS.Web\\Views\\Client\\Index.cshtml",
-              "ToolTip": "C:\\Users\\rossr\\Desktop\\Projects\\Formative Part 2\\Personal-Formative-2-PROG7311\\GLMS\\GLMS.Web\\Views\\Client\\Index.cshtml",
+              "ToolTip": "C:\\Users\\rossr\\Desktop\\Projects\\PROG7311-POE-Part-2\\GLMS\\GLMS.Web\\Views\\Client\\Index.cshtml",
               "RelativeToolTip": "GLMS.Web\\Views\\Client\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -571,11 +922,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 47,
               "Title": "Edit.cshtml",
-              "DocumentMoniker": "C:\\Users\\rossr\\Desktop\\Projects\\Formative Part 2\\Personal-Formative-2-PROG7311\\GLMS\\GLMS.Web\\Views\\Client\\Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\rossr\\Desktop\\Projects\\PROG7311-POE-Part-2\\GLMS\\GLMS.Web\\Views\\Client\\Edit.cshtml",
               "RelativeDocumentMoniker": "GLMS.Web\\Views\\Client\\Edit.cshtml",
-              "ToolTip": "C:\\Users\\rossr\\Desktop\\Projects\\Formative Part 2\\Personal-Formative-2-PROG7311\\GLMS\\GLMS.Web\\Views\\Client\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\rossr\\Desktop\\Projects\\PROG7311-POE-Part-2\\GLMS\\GLMS.Web\\Views\\Client\\Edit.cshtml",
               "RelativeToolTip": "GLMS.Web\\Views\\Client\\Edit.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -583,11 +934,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 50,
               "Title": "Details.cshtml",
-              "DocumentMoniker": "C:\\Users\\rossr\\Desktop\\Projects\\Formative Part 2\\Personal-Formative-2-PROG7311\\GLMS\\GLMS.Web\\Views\\Client\\Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\rossr\\Desktop\\Projects\\PROG7311-POE-Part-2\\GLMS\\GLMS.Web\\Views\\Client\\Details.cshtml",
               "RelativeDocumentMoniker": "GLMS.Web\\Views\\Client\\Details.cshtml",
-              "ToolTip": "C:\\Users\\rossr\\Desktop\\Projects\\Formative Part 2\\Personal-Formative-2-PROG7311\\GLMS\\GLMS.Web\\Views\\Client\\Details.cshtml",
+              "ToolTip": "C:\\Users\\rossr\\Desktop\\Projects\\PROG7311-POE-Part-2\\GLMS\\GLMS.Web\\Views\\Client\\Details.cshtml",
               "RelativeToolTip": "GLMS.Web\\Views\\Client\\Details.cshtml",
               "ViewState": "AgIAACQAAAAAAAAAAAAAAB0AAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -595,11 +946,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 49,
               "Title": "Delete.cshtml",
-              "DocumentMoniker": "C:\\Users\\rossr\\Desktop\\Projects\\Formative Part 2\\Personal-Formative-2-PROG7311\\GLMS\\GLMS.Web\\Views\\Client\\Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\rossr\\Desktop\\Projects\\PROG7311-POE-Part-2\\GLMS\\GLMS.Web\\Views\\Client\\Delete.cshtml",
               "RelativeDocumentMoniker": "GLMS.Web\\Views\\Client\\Delete.cshtml",
-              "ToolTip": "C:\\Users\\rossr\\Desktop\\Projects\\Formative Part 2\\Personal-Formative-2-PROG7311\\GLMS\\GLMS.Web\\Views\\Client\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\rossr\\Desktop\\Projects\\PROG7311-POE-Part-2\\GLMS\\GLMS.Web\\Views\\Client\\Delete.cshtml",
               "RelativeToolTip": "GLMS.Web\\Views\\Client\\Delete.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -607,11 +958,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 48,
               "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\rossr\\Desktop\\Projects\\Formative Part 2\\Personal-Formative-2-PROG7311\\GLMS\\GLMS.Web\\Views\\Client\\Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\rossr\\Desktop\\Projects\\PROG7311-POE-Part-2\\GLMS\\GLMS.Web\\Views\\Client\\Create.cshtml",
               "RelativeDocumentMoniker": "GLMS.Web\\Views\\Client\\Create.cshtml",
-              "ToolTip": "C:\\Users\\rossr\\Desktop\\Projects\\Formative Part 2\\Personal-Formative-2-PROG7311\\GLMS\\GLMS.Web\\Views\\Client\\Create.cshtml",
+              "ToolTip": "C:\\Users\\rossr\\Desktop\\Projects\\PROG7311-POE-Part-2\\GLMS\\GLMS.Web\\Views\\Client\\Create.cshtml",
               "RelativeToolTip": "GLMS.Web\\Views\\Client\\Create.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -619,11 +970,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 51,
               "Title": "WorkflowValidator.cs",
-              "DocumentMoniker": "C:\\Users\\rossr\\Desktop\\Projects\\Formative Part 2\\Personal-Formative-2-PROG7311\\GLMS\\GLMS.Web\\Services\\WorkflowValidator.cs",
+              "DocumentMoniker": "C:\\Users\\rossr\\Desktop\\Projects\\PROG7311-POE-Part-2\\GLMS\\GLMS.Web\\Services\\WorkflowValidator.cs",
               "RelativeDocumentMoniker": "GLMS.Web\\Services\\WorkflowValidator.cs",
-              "ToolTip": "C:\\Users\\rossr\\Desktop\\Projects\\Formative Part 2\\Personal-Formative-2-PROG7311\\GLMS\\GLMS.Web\\Services\\WorkflowValidator.cs",
+              "ToolTip": "C:\\Users\\rossr\\Desktop\\Projects\\PROG7311-POE-Part-2\\GLMS\\GLMS.Web\\Services\\WorkflowValidator.cs",
               "RelativeToolTip": "GLMS.Web\\Services\\WorkflowValidator.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -631,11 +982,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 52,
               "Title": "IFileService.cs",
-              "DocumentMoniker": "C:\\Users\\rossr\\Desktop\\Projects\\Formative Part 2\\Personal-Formative-2-PROG7311\\GLMS\\GLMS.Web\\Services\\IFileService.cs",
+              "DocumentMoniker": "C:\\Users\\rossr\\Desktop\\Projects\\PROG7311-POE-Part-2\\GLMS\\GLMS.Web\\Services\\IFileService.cs",
               "RelativeDocumentMoniker": "GLMS.Web\\Services\\IFileService.cs",
-              "ToolTip": "C:\\Users\\rossr\\Desktop\\Projects\\Formative Part 2\\Personal-Formative-2-PROG7311\\GLMS\\GLMS.Web\\Services\\IFileService.cs",
+              "ToolTip": "C:\\Users\\rossr\\Desktop\\Projects\\PROG7311-POE-Part-2\\GLMS\\GLMS.Web\\Services\\IFileService.cs",
               "RelativeToolTip": "GLMS.Web\\Services\\IFileService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -643,23 +994,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "ICurrencyService.cs",
-              "DocumentMoniker": "C:\\Users\\rossr\\Desktop\\Projects\\Formative Part 2\\Personal-Formative-2-PROG7311\\GLMS\\GLMS.Web\\Services\\ICurrencyService.cs",
-              "RelativeDocumentMoniker": "GLMS.Web\\Services\\ICurrencyService.cs",
-              "ToolTip": "C:\\Users\\rossr\\Desktop\\Projects\\Formative Part 2\\Personal-Formative-2-PROG7311\\GLMS\\GLMS.Web\\Services\\ICurrencyService.cs",
-              "RelativeToolTip": "GLMS.Web\\Services\\ICurrencyService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-22T17:16:21.514Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 53,
               "Title": "FileService.cs",
-              "DocumentMoniker": "C:\\Users\\rossr\\Desktop\\Projects\\Formative Part 2\\Personal-Formative-2-PROG7311\\GLMS\\GLMS.Web\\Services\\FileService.cs",
+              "DocumentMoniker": "C:\\Users\\rossr\\Desktop\\Projects\\PROG7311-POE-Part-2\\GLMS\\GLMS.Web\\Services\\FileService.cs",
               "RelativeDocumentMoniker": "GLMS.Web\\Services\\FileService.cs",
-              "ToolTip": "C:\\Users\\rossr\\Desktop\\Projects\\Formative Part 2\\Personal-Formative-2-PROG7311\\GLMS\\GLMS.Web\\Services\\FileService.cs",
+              "ToolTip": "C:\\Users\\rossr\\Desktop\\Projects\\PROG7311-POE-Part-2\\GLMS\\GLMS.Web\\Services\\FileService.cs",
               "RelativeToolTip": "GLMS.Web\\Services\\FileService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -667,23 +1006,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "CurrencyService.cs",
-              "DocumentMoniker": "C:\\Users\\rossr\\Desktop\\Projects\\Formative Part 2\\Personal-Formative-2-PROG7311\\GLMS\\GLMS.Web\\Services\\CurrencyService.cs",
-              "RelativeDocumentMoniker": "GLMS.Web\\Services\\CurrencyService.cs",
-              "ToolTip": "C:\\Users\\rossr\\Desktop\\Projects\\Formative Part 2\\Personal-Formative-2-PROG7311\\GLMS\\GLMS.Web\\Services\\CurrencyService.cs",
-              "RelativeToolTip": "GLMS.Web\\Services\\CurrencyService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-22T17:15:36.588Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 54,
               "Title": "CurrencyCalculator.cs",
-              "DocumentMoniker": "C:\\Users\\rossr\\Desktop\\Projects\\Formative Part 2\\Personal-Formative-2-PROG7311\\GLMS\\GLMS.Web\\Services\\CurrencyCalculator.cs",
+              "DocumentMoniker": "C:\\Users\\rossr\\Desktop\\Projects\\PROG7311-POE-Part-2\\GLMS\\GLMS.Web\\Services\\CurrencyCalculator.cs",
               "RelativeDocumentMoniker": "GLMS.Web\\Services\\CurrencyCalculator.cs",
-              "ToolTip": "C:\\Users\\rossr\\Desktop\\Projects\\Formative Part 2\\Personal-Formative-2-PROG7311\\GLMS\\GLMS.Web\\Services\\CurrencyCalculator.cs",
+              "ToolTip": "C:\\Users\\rossr\\Desktop\\Projects\\PROG7311-POE-Part-2\\GLMS\\GLMS.Web\\Services\\CurrencyCalculator.cs",
               "RelativeToolTip": "GLMS.Web\\Services\\CurrencyCalculator.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -691,203 +1018,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
-              "Title": "ServiceRequestRepository.cs",
-              "DocumentMoniker": "C:\\Users\\rossr\\Desktop\\Projects\\Formative Part 2\\Personal-Formative-2-PROG7311\\GLMS\\GLMS.Web\\Repositories\\ServiceRequestRepository.cs",
-              "RelativeDocumentMoniker": "GLMS.Web\\Repositories\\ServiceRequestRepository.cs",
-              "ToolTip": "C:\\Users\\rossr\\Desktop\\Projects\\Formative Part 2\\Personal-Formative-2-PROG7311\\GLMS\\GLMS.Web\\Repositories\\ServiceRequestRepository.cs",
-              "RelativeToolTip": "GLMS.Web\\Repositories\\ServiceRequestRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-22T17:15:13.53Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 34,
-              "Title": "IServiceRequestRepository.cs",
-              "DocumentMoniker": "C:\\Users\\rossr\\Desktop\\Projects\\Formative Part 2\\Personal-Formative-2-PROG7311\\GLMS\\GLMS.Web\\Repositories\\IServiceRequestRepository.cs",
-              "RelativeDocumentMoniker": "GLMS.Web\\Repositories\\IServiceRequestRepository.cs",
-              "ToolTip": "C:\\Users\\rossr\\Desktop\\Projects\\Formative Part 2\\Personal-Formative-2-PROG7311\\GLMS\\GLMS.Web\\Repositories\\IServiceRequestRepository.cs",
-              "RelativeToolTip": "GLMS.Web\\Repositories\\IServiceRequestRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-22T17:15:08.273Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 33,
-              "Title": "IContractRepository.cs",
-              "DocumentMoniker": "C:\\Users\\rossr\\Desktop\\Projects\\Formative Part 2\\Personal-Formative-2-PROG7311\\GLMS\\GLMS.Web\\Repositories\\IContractRepository.cs",
-              "RelativeDocumentMoniker": "GLMS.Web\\Repositories\\IContractRepository.cs",
-              "ToolTip": "C:\\Users\\rossr\\Desktop\\Projects\\Formative Part 2\\Personal-Formative-2-PROG7311\\GLMS\\GLMS.Web\\Repositories\\IContractRepository.cs",
-              "RelativeToolTip": "GLMS.Web\\Repositories\\IContractRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-22T17:15:04.409Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 32,
-              "Title": "IClientRepository.cs",
-              "DocumentMoniker": "C:\\Users\\rossr\\Desktop\\Projects\\Formative Part 2\\Personal-Formative-2-PROG7311\\GLMS\\GLMS.Web\\Repositories\\IClientRepository.cs",
-              "RelativeDocumentMoniker": "GLMS.Web\\Repositories\\IClientRepository.cs",
-              "ToolTip": "C:\\Users\\rossr\\Desktop\\Projects\\Formative Part 2\\Personal-Formative-2-PROG7311\\GLMS\\GLMS.Web\\Repositories\\IClientRepository.cs",
-              "RelativeToolTip": "GLMS.Web\\Repositories\\IClientRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-22T17:14:59.14Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 30,
-              "Title": "ContractRepository.cs",
-              "DocumentMoniker": "C:\\Users\\rossr\\Desktop\\Projects\\Formative Part 2\\Personal-Formative-2-PROG7311\\GLMS\\GLMS.Web\\Repositories\\ContractRepository.cs",
-              "RelativeDocumentMoniker": "GLMS.Web\\Repositories\\ContractRepository.cs",
-              "ToolTip": "C:\\Users\\rossr\\Desktop\\Projects\\Formative Part 2\\Personal-Formative-2-PROG7311\\GLMS\\GLMS.Web\\Repositories\\ContractRepository.cs",
-              "RelativeToolTip": "GLMS.Web\\Repositories\\ContractRepository.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-22T17:14:41.153Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 31,
-              "Title": "ClientRepository.cs",
-              "DocumentMoniker": "C:\\Users\\rossr\\Desktop\\Projects\\Formative Part 2\\Personal-Formative-2-PROG7311\\GLMS\\GLMS.Web\\Repositories\\ClientRepository.cs",
-              "RelativeDocumentMoniker": "GLMS.Web\\Repositories\\ClientRepository.cs",
-              "ToolTip": "C:\\Users\\rossr\\Desktop\\Projects\\Formative Part 2\\Personal-Formative-2-PROG7311\\GLMS\\GLMS.Web\\Repositories\\ClientRepository.cs",
-              "RelativeToolTip": "GLMS.Web\\Repositories\\ClientRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-22T17:14:35.815Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 36,
-              "Title": "ValidationStrategySelector.cs",
-              "DocumentMoniker": "C:\\Users\\rossr\\Desktop\\Projects\\Formative Part 2\\Personal-Formative-2-PROG7311\\GLMS\\GLMS.Web\\Patterns\\Strategy\\ValidationStrategySelector.cs",
-              "RelativeDocumentMoniker": "GLMS.Web\\Patterns\\Strategy\\ValidationStrategySelector.cs",
-              "ToolTip": "C:\\Users\\rossr\\Desktop\\Projects\\Formative Part 2\\Personal-Formative-2-PROG7311\\GLMS\\GLMS.Web\\Patterns\\Strategy\\ValidationStrategySelector.cs",
-              "RelativeToolTip": "GLMS.Web\\Patterns\\Strategy\\ValidationStrategySelector.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-22T17:14:29.063Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 37,
-              "Title": "OnHoldContractStrategy.cs",
-              "DocumentMoniker": "C:\\Users\\rossr\\Desktop\\Projects\\Formative Part 2\\Personal-Formative-2-PROG7311\\GLMS\\GLMS.Web\\Patterns\\Strategy\\OnHoldContractStrategy.cs",
-              "RelativeDocumentMoniker": "GLMS.Web\\Patterns\\Strategy\\OnHoldContractStrategy.cs",
-              "ToolTip": "C:\\Users\\rossr\\Desktop\\Projects\\Formative Part 2\\Personal-Formative-2-PROG7311\\GLMS\\GLMS.Web\\Patterns\\Strategy\\OnHoldContractStrategy.cs",
-              "RelativeToolTip": "GLMS.Web\\Patterns\\Strategy\\OnHoldContractStrategy.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-22T17:14:22.812Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 38,
-              "Title": "IServiceRequestValidationStrategy.cs",
-              "DocumentMoniker": "C:\\Users\\rossr\\Desktop\\Projects\\Formative Part 2\\Personal-Formative-2-PROG7311\\GLMS\\GLMS.Web\\Patterns\\Strategy\\IServiceRequestValidationStrategy.cs",
-              "RelativeDocumentMoniker": "GLMS.Web\\Patterns\\Strategy\\IServiceRequestValidationStrategy.cs",
-              "ToolTip": "C:\\Users\\rossr\\Desktop\\Projects\\Formative Part 2\\Personal-Formative-2-PROG7311\\GLMS\\GLMS.Web\\Patterns\\Strategy\\IServiceRequestValidationStrategy.cs",
-              "RelativeToolTip": "GLMS.Web\\Patterns\\Strategy\\IServiceRequestValidationStrategy.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-22T17:14:05.974Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 39,
-              "Title": "ExpiredContractStrategy.cs",
-              "DocumentMoniker": "C:\\Users\\rossr\\Desktop\\Projects\\Formative Part 2\\Personal-Formative-2-PROG7311\\GLMS\\GLMS.Web\\Patterns\\Strategy\\ExpiredContractStrategy.cs",
-              "RelativeDocumentMoniker": "GLMS.Web\\Patterns\\Strategy\\ExpiredContractStrategy.cs",
-              "ToolTip": "C:\\Users\\rossr\\Desktop\\Projects\\Formative Part 2\\Personal-Formative-2-PROG7311\\GLMS\\GLMS.Web\\Patterns\\Strategy\\ExpiredContractStrategy.cs",
-              "RelativeToolTip": "GLMS.Web\\Patterns\\Strategy\\ExpiredContractStrategy.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAADAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-22T17:14:02.285Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 40,
-              "Title": "DraftContractStrategy.cs",
-              "DocumentMoniker": "C:\\Users\\rossr\\Desktop\\Projects\\Formative Part 2\\Personal-Formative-2-PROG7311\\GLMS\\GLMS.Web\\Patterns\\Strategy\\DraftContractStrategy.cs",
-              "RelativeDocumentMoniker": "GLMS.Web\\Patterns\\Strategy\\DraftContractStrategy.cs",
-              "ToolTip": "C:\\Users\\rossr\\Desktop\\Projects\\Formative Part 2\\Personal-Formative-2-PROG7311\\GLMS\\GLMS.Web\\Patterns\\Strategy\\DraftContractStrategy.cs",
-              "RelativeToolTip": "GLMS.Web\\Patterns\\Strategy\\DraftContractStrategy.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAADAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-22T17:13:58.38Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 41,
-              "Title": "ActiveContractStrategy.cs",
-              "DocumentMoniker": "C:\\Users\\rossr\\Desktop\\Projects\\Formative Part 2\\Personal-Formative-2-PROG7311\\GLMS\\GLMS.Web\\Patterns\\Strategy\\ActiveContractStrategy.cs",
-              "RelativeDocumentMoniker": "GLMS.Web\\Patterns\\Strategy\\ActiveContractStrategy.cs",
-              "ToolTip": "C:\\Users\\rossr\\Desktop\\Projects\\Formative Part 2\\Personal-Formative-2-PROG7311\\GLMS\\GLMS.Web\\Patterns\\Strategy\\ActiveContractStrategy.cs",
-              "RelativeToolTip": "GLMS.Web\\Patterns\\Strategy\\ActiveContractStrategy.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAADAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-22T17:13:53.579Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 42,
-              "Title": "IContractStatusObserver.cs",
-              "DocumentMoniker": "C:\\Users\\rossr\\Desktop\\Projects\\Formative Part 2\\Personal-Formative-2-PROG7311\\GLMS\\GLMS.Web\\Patterns\\Observer\\IContractStatusObserver.cs",
-              "RelativeDocumentMoniker": "GLMS.Web\\Patterns\\Observer\\IContractStatusObserver.cs",
-              "ToolTip": "C:\\Users\\rossr\\Desktop\\Projects\\Formative Part 2\\Personal-Formative-2-PROG7311\\GLMS\\GLMS.Web\\Patterns\\Observer\\IContractStatusObserver.cs",
-              "RelativeToolTip": "GLMS.Web\\Patterns\\Observer\\IContractStatusObserver.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAADAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-22T17:13:08.38Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 43,
-              "Title": "ExpiryAlertObserver.cs",
-              "DocumentMoniker": "C:\\Users\\rossr\\Desktop\\Projects\\Formative Part 2\\Personal-Formative-2-PROG7311\\GLMS\\GLMS.Web\\Patterns\\Observer\\ExpiryAlertObserver.cs",
-              "RelativeDocumentMoniker": "GLMS.Web\\Patterns\\Observer\\ExpiryAlertObserver.cs",
-              "ToolTip": "C:\\Users\\rossr\\Desktop\\Projects\\Formative Part 2\\Personal-Formative-2-PROG7311\\GLMS\\GLMS.Web\\Patterns\\Observer\\ExpiryAlertObserver.cs",
-              "RelativeToolTip": "GLMS.Web\\Patterns\\Observer\\ExpiryAlertObserver.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-22T17:12:14.227Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 44,
-              "Title": "ContractStatusPublisher.cs",
-              "DocumentMoniker": "C:\\Users\\rossr\\Desktop\\Projects\\Formative Part 2\\Personal-Formative-2-PROG7311\\GLMS\\GLMS.Web\\Patterns\\Observer\\ContractStatusPublisher.cs",
-              "RelativeDocumentMoniker": "GLMS.Web\\Patterns\\Observer\\ContractStatusPublisher.cs",
-              "ToolTip": "C:\\Users\\rossr\\Desktop\\Projects\\Formative Part 2\\Personal-Formative-2-PROG7311\\GLMS\\GLMS.Web\\Patterns\\Observer\\ContractStatusPublisher.cs",
-              "RelativeToolTip": "GLMS.Web\\Patterns\\Observer\\ContractStatusPublisher.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-22T17:12:09.463Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 45,
-              "Title": "AuditLogObserver.cs",
-              "DocumentMoniker": "C:\\Users\\rossr\\Desktop\\Projects\\Formative Part 2\\Personal-Formative-2-PROG7311\\GLMS\\GLMS.Web\\Patterns\\Observer\\AuditLogObserver.cs",
-              "RelativeDocumentMoniker": "GLMS.Web\\Patterns\\Observer\\AuditLogObserver.cs",
-              "ToolTip": "C:\\Users\\rossr\\Desktop\\Projects\\Formative Part 2\\Personal-Formative-2-PROG7311\\GLMS\\GLMS.Web\\Patterns\\Observer\\AuditLogObserver.cs",
-              "RelativeToolTip": "GLMS.Web\\Patterns\\Observer\\AuditLogObserver.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-22T17:12:02.838Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 51,
+              "DocumentIndex": 55,
               "Title": "ServiceRequest.cs",
-              "DocumentMoniker": "C:\\Users\\rossr\\Desktop\\Projects\\Formative Part 2\\Personal-Formative-2-PROG7311\\GLMS\\GLMS.Web\\Models\\ServiceRequest.cs",
+              "DocumentMoniker": "C:\\Users\\rossr\\Desktop\\Projects\\PROG7311-POE-Part-2\\GLMS\\GLMS.Web\\Models\\ServiceRequest.cs",
               "RelativeDocumentMoniker": "GLMS.Web\\Models\\ServiceRequest.cs",
-              "ToolTip": "C:\\Users\\rossr\\Desktop\\Projects\\Formative Part 2\\Personal-Formative-2-PROG7311\\GLMS\\GLMS.Web\\Models\\ServiceRequest.cs",
+              "ToolTip": "C:\\Users\\rossr\\Desktop\\Projects\\PROG7311-POE-Part-2\\GLMS\\GLMS.Web\\Models\\ServiceRequest.cs",
               "RelativeToolTip": "GLMS.Web\\Models\\ServiceRequest.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -895,71 +1030,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 46,
-              "Title": "ContractFactoryProvider.cs",
-              "DocumentMoniker": "C:\\Users\\rossr\\Desktop\\Projects\\Formative Part 2\\Personal-Formative-2-PROG7311\\GLMS\\GLMS.Web\\Patterns\\Factory\\ContractFactoryProvider.cs",
-              "RelativeDocumentMoniker": "GLMS.Web\\Patterns\\Factory\\ContractFactoryProvider.cs",
-              "ToolTip": "C:\\Users\\rossr\\Desktop\\Projects\\Formative Part 2\\Personal-Formative-2-PROG7311\\GLMS\\GLMS.Web\\Patterns\\Factory\\ContractFactoryProvider.cs",
-              "RelativeToolTip": "GLMS.Web\\Patterns\\Factory\\ContractFactoryProvider.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-22T17:07:57.182Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 47,
-              "Title": "EnterpriseContractFactory.cs",
-              "DocumentMoniker": "C:\\Users\\rossr\\Desktop\\Projects\\Formative Part 2\\Personal-Formative-2-PROG7311\\GLMS\\GLMS.Web\\Patterns\\Factory\\EnterpriseContractFactory.cs",
-              "RelativeDocumentMoniker": "GLMS.Web\\Patterns\\Factory\\EnterpriseContractFactory.cs",
-              "ToolTip": "C:\\Users\\rossr\\Desktop\\Projects\\Formative Part 2\\Personal-Formative-2-PROG7311\\GLMS\\GLMS.Web\\Patterns\\Factory\\EnterpriseContractFactory.cs",
-              "RelativeToolTip": "GLMS.Web\\Patterns\\Factory\\EnterpriseContractFactory.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-22T17:08:03.333Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 50,
-              "Title": "StandardContractFactory.cs",
-              "DocumentMoniker": "C:\\Users\\rossr\\Desktop\\Projects\\Formative Part 2\\Personal-Formative-2-PROG7311\\GLMS\\GLMS.Web\\Patterns\\Factory\\StandardContractFactory.cs",
-              "RelativeDocumentMoniker": "GLMS.Web\\Patterns\\Factory\\StandardContractFactory.cs",
-              "ToolTip": "C:\\Users\\rossr\\Desktop\\Projects\\Formative Part 2\\Personal-Formative-2-PROG7311\\GLMS\\GLMS.Web\\Patterns\\Factory\\StandardContractFactory.cs",
-              "RelativeToolTip": "GLMS.Web\\Patterns\\Factory\\StandardContractFactory.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-22T17:08:16.751Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 49,
-              "Title": "PremiumContractFactory.cs",
-              "DocumentMoniker": "C:\\Users\\rossr\\Desktop\\Projects\\Formative Part 2\\Personal-Formative-2-PROG7311\\GLMS\\GLMS.Web\\Patterns\\Factory\\PremiumContractFactory.cs",
-              "RelativeDocumentMoniker": "GLMS.Web\\Patterns\\Factory\\PremiumContractFactory.cs",
-              "ToolTip": "C:\\Users\\rossr\\Desktop\\Projects\\Formative Part 2\\Personal-Formative-2-PROG7311\\GLMS\\GLMS.Web\\Patterns\\Factory\\PremiumContractFactory.cs",
-              "RelativeToolTip": "GLMS.Web\\Patterns\\Factory\\PremiumContractFactory.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-22T17:08:11.737Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 48,
-              "Title": "IContractFactory.cs",
-              "DocumentMoniker": "C:\\Users\\rossr\\Desktop\\Projects\\Formative Part 2\\Personal-Formative-2-PROG7311\\GLMS\\GLMS.Web\\Patterns\\Factory\\IContractFactory.cs",
-              "RelativeDocumentMoniker": "GLMS.Web\\Patterns\\Factory\\IContractFactory.cs",
-              "ToolTip": "C:\\Users\\rossr\\Desktop\\Projects\\Formative Part 2\\Personal-Formative-2-PROG7311\\GLMS\\GLMS.Web\\Patterns\\Factory\\IContractFactory.cs",
-              "RelativeToolTip": "GLMS.Web\\Patterns\\Factory\\IContractFactory.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-22T17:08:07.997Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 52,
+              "DocumentIndex": 56,
               "Title": "ErrorViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\rossr\\Desktop\\Projects\\Formative Part 2\\Personal-Formative-2-PROG7311\\GLMS\\GLMS.Web\\Models\\ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\rossr\\Desktop\\Projects\\PROG7311-POE-Part-2\\GLMS\\GLMS.Web\\Models\\ErrorViewModel.cs",
               "RelativeDocumentMoniker": "GLMS.Web\\Models\\ErrorViewModel.cs",
-              "ToolTip": "C:\\Users\\rossr\\Desktop\\Projects\\Formative Part 2\\Personal-Formative-2-PROG7311\\GLMS\\GLMS.Web\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\rossr\\Desktop\\Projects\\PROG7311-POE-Part-2\\GLMS\\GLMS.Web\\Models\\ErrorViewModel.cs",
               "RelativeToolTip": "GLMS.Web\\Models\\ErrorViewModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -967,11 +1042,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 53,
+              "DocumentIndex": 57,
               "Title": "Contract.cs",
-              "DocumentMoniker": "C:\\Users\\rossr\\Desktop\\Projects\\Formative Part 2\\Personal-Formative-2-PROG7311\\GLMS\\GLMS.Web\\Models\\Contract.cs",
+              "DocumentMoniker": "C:\\Users\\rossr\\Desktop\\Projects\\PROG7311-POE-Part-2\\GLMS\\GLMS.Web\\Models\\Contract.cs",
               "RelativeDocumentMoniker": "GLMS.Web\\Models\\Contract.cs",
-              "ToolTip": "C:\\Users\\rossr\\Desktop\\Projects\\Formative Part 2\\Personal-Formative-2-PROG7311\\GLMS\\GLMS.Web\\Models\\Contract.cs",
+              "ToolTip": "C:\\Users\\rossr\\Desktop\\Projects\\PROG7311-POE-Part-2\\GLMS\\GLMS.Web\\Models\\Contract.cs",
               "RelativeToolTip": "GLMS.Web\\Models\\Contract.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -979,11 +1054,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 54,
+              "DocumentIndex": 58,
               "Title": "Client.cs",
-              "DocumentMoniker": "C:\\Users\\rossr\\Desktop\\Projects\\Formative Part 2\\Personal-Formative-2-PROG7311\\GLMS\\GLMS.Web\\Models\\Client.cs",
+              "DocumentMoniker": "C:\\Users\\rossr\\Desktop\\Projects\\PROG7311-POE-Part-2\\GLMS\\GLMS.Web\\Models\\Client.cs",
               "RelativeDocumentMoniker": "GLMS.Web\\Models\\Client.cs",
-              "ToolTip": "C:\\Users\\rossr\\Desktop\\Projects\\Formative Part 2\\Personal-Formative-2-PROG7311\\GLMS\\GLMS.Web\\Models\\Client.cs",
+              "ToolTip": "C:\\Users\\rossr\\Desktop\\Projects\\PROG7311-POE-Part-2\\GLMS\\GLMS.Web\\Models\\Client.cs",
               "RelativeToolTip": "GLMS.Web\\Models\\Client.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -991,23 +1066,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 55,
-              "Title": "ServiceRequestController.cs",
-              "DocumentMoniker": "C:\\Users\\rossr\\Desktop\\Projects\\Formative Part 2\\Personal-Formative-2-PROG7311\\GLMS\\GLMS.Web\\Controllers\\ServiceRequestController.cs",
-              "RelativeDocumentMoniker": "GLMS.Web\\Controllers\\ServiceRequestController.cs",
-              "ToolTip": "C:\\Users\\rossr\\Desktop\\Projects\\Formative Part 2\\Personal-Formative-2-PROG7311\\GLMS\\GLMS.Web\\Controllers\\ServiceRequestController.cs",
-              "RelativeToolTip": "GLMS.Web\\Controllers\\ServiceRequestController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAA4AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-22T17:05:56.674Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 56,
+              "DocumentIndex": 59,
               "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\rossr\\Desktop\\Projects\\Formative Part 2\\Personal-Formative-2-PROG7311\\GLMS\\GLMS.Web\\Controllers\\HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\rossr\\Desktop\\Projects\\PROG7311-POE-Part-2\\GLMS\\GLMS.Web\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "GLMS.Web\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\rossr\\Desktop\\Projects\\Formative Part 2\\Personal-Formative-2-PROG7311\\GLMS\\GLMS.Web\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\rossr\\Desktop\\Projects\\PROG7311-POE-Part-2\\GLMS\\GLMS.Web\\Controllers\\HomeController.cs",
               "RelativeToolTip": "GLMS.Web\\Controllers\\HomeController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1015,35 +1078,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 57,
-              "Title": "ContractController.cs",
-              "DocumentMoniker": "C:\\Users\\rossr\\Desktop\\Projects\\Formative Part 2\\Personal-Formative-2-PROG7311\\GLMS\\GLMS.Web\\Controllers\\ContractController.cs",
-              "RelativeDocumentMoniker": "GLMS.Web\\Controllers\\ContractController.cs",
-              "ToolTip": "C:\\Users\\rossr\\Desktop\\Projects\\Formative Part 2\\Personal-Formative-2-PROG7311\\GLMS\\GLMS.Web\\Controllers\\ContractController.cs",
-              "RelativeToolTip": "GLMS.Web\\Controllers\\ContractController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-22T17:04:58.993Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 58,
-              "Title": "ClientController.cs",
-              "DocumentMoniker": "C:\\Users\\rossr\\Desktop\\Projects\\Formative Part 2\\Personal-Formative-2-PROG7311\\GLMS\\GLMS.Web\\Controllers\\ClientController.cs",
-              "RelativeDocumentMoniker": "GLMS.Web\\Controllers\\ClientController.cs",
-              "ToolTip": "C:\\Users\\rossr\\Desktop\\Projects\\Formative Part 2\\Personal-Formative-2-PROG7311\\GLMS\\GLMS.Web\\Controllers\\ClientController.cs",
-              "RelativeToolTip": "GLMS.Web\\Controllers\\ClientController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-22T17:04:56.364Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 59,
+              "DocumentIndex": 60,
               "Title": "ValidationStrategyTests.cs",
-              "DocumentMoniker": "C:\\Users\\rossr\\Desktop\\Projects\\Formative Part 2\\Personal-Formative-2-PROG7311\\GLMS\\GLMS.Tests\\ValidationStrategyTests.cs",
+              "DocumentMoniker": "C:\\Users\\rossr\\Desktop\\Projects\\PROG7311-POE-Part-2\\GLMS\\GLMS.Tests\\ValidationStrategyTests.cs",
               "RelativeDocumentMoniker": "GLMS.Tests\\ValidationStrategyTests.cs",
-              "ToolTip": "C:\\Users\\rossr\\Desktop\\Projects\\Formative Part 2\\Personal-Formative-2-PROG7311\\GLMS\\GLMS.Tests\\ValidationStrategyTests.cs",
+              "ToolTip": "C:\\Users\\rossr\\Desktop\\Projects\\PROG7311-POE-Part-2\\GLMS\\GLMS.Tests\\ValidationStrategyTests.cs",
               "RelativeToolTip": "GLMS.Tests\\ValidationStrategyTests.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1051,11 +1090,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 60,
+              "DocumentIndex": 61,
               "Title": "AppDbContextModelSnapshot.cs",
-              "DocumentMoniker": "C:\\Users\\rossr\\Desktop\\Projects\\Formative Part 2\\Personal-Formative-2-PROG7311\\GLMS\\GLMS.Web\\Migrations\\AppDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\rossr\\Desktop\\Projects\\PROG7311-POE-Part-2\\GLMS\\GLMS.Web\\Migrations\\AppDbContextModelSnapshot.cs",
               "RelativeDocumentMoniker": "GLMS.Web\\Migrations\\AppDbContextModelSnapshot.cs",
-              "ToolTip": "C:\\Users\\rossr\\Desktop\\Projects\\Formative Part 2\\Personal-Formative-2-PROG7311\\GLMS\\GLMS.Web\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\rossr\\Desktop\\Projects\\PROG7311-POE-Part-2\\GLMS\\GLMS.Web\\Migrations\\AppDbContextModelSnapshot.cs",
               "RelativeToolTip": "GLMS.Web\\Migrations\\AppDbContextModelSnapshot.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1063,11 +1102,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 61,
+              "DocumentIndex": 62,
               "Title": "20260420083108_InitialCreate.cs",
-              "DocumentMoniker": "C:\\Users\\rossr\\Desktop\\Projects\\Formative Part 2\\Personal-Formative-2-PROG7311\\GLMS\\GLMS.Web\\Migrations\\20260420083108_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\rossr\\Desktop\\Projects\\PROG7311-POE-Part-2\\GLMS\\GLMS.Web\\Migrations\\20260420083108_InitialCreate.cs",
               "RelativeDocumentMoniker": "GLMS.Web\\Migrations\\20260420083108_InitialCreate.cs",
-              "ToolTip": "C:\\Users\\rossr\\Desktop\\Projects\\Formative Part 2\\Personal-Formative-2-PROG7311\\GLMS\\GLMS.Web\\Migrations\\20260420083108_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\rossr\\Desktop\\Projects\\PROG7311-POE-Part-2\\GLMS\\GLMS.Web\\Migrations\\20260420083108_InitialCreate.cs",
               "RelativeToolTip": "GLMS.Web\\Migrations\\20260420083108_InitialCreate.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1075,11 +1114,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 62,
+              "DocumentIndex": 63,
               "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\rossr\\Desktop\\Projects\\Formative Part 2\\Personal-Formative-2-PROG7311\\GLMS\\GLMS.Web\\Data\\AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\rossr\\Desktop\\Projects\\PROG7311-POE-Part-2\\GLMS\\GLMS.Web\\Data\\AppDbContext.cs",
               "RelativeDocumentMoniker": "GLMS.Web\\Data\\AppDbContext.cs",
-              "ToolTip": "C:\\Users\\rossr\\Desktop\\Projects\\Formative Part 2\\Personal-Formative-2-PROG7311\\GLMS\\GLMS.Web\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\rossr\\Desktop\\Projects\\PROG7311-POE-Part-2\\GLMS\\GLMS.Web\\Data\\AppDbContext.cs",
               "RelativeToolTip": "GLMS.Web\\Data\\AppDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1087,11 +1126,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 63,
+              "DocumentIndex": 64,
               "Title": "bootstrap.js",
-              "DocumentMoniker": "C:\\Users\\rossr\\Desktop\\Projects\\Formative Part 2\\Personal-Formative-2-PROG7311\\GLMS\\GLMS.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+              "DocumentMoniker": "C:\\Users\\rossr\\Desktop\\Projects\\PROG7311-POE-Part-2\\GLMS\\GLMS.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
               "RelativeDocumentMoniker": "GLMS.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
-              "ToolTip": "C:\\Users\\rossr\\Desktop\\Projects\\Formative Part 2\\Personal-Formative-2-PROG7311\\GLMS\\GLMS.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+              "ToolTip": "C:\\Users\\rossr\\Desktop\\Projects\\PROG7311-POE-Part-2\\GLMS\\GLMS.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
               "RelativeToolTip": "GLMS.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
@@ -1099,11 +1138,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 64,
+              "DocumentIndex": 65,
               "Title": "bootstrap-utilities.css",
-              "DocumentMoniker": "C:\\Users\\rossr\\Desktop\\Projects\\Formative Part 2\\Personal-Formative-2-PROG7311\\GLMS\\GLMS.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+              "DocumentMoniker": "C:\\Users\\rossr\\Desktop\\Projects\\PROG7311-POE-Part-2\\GLMS\\GLMS.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
               "RelativeDocumentMoniker": "GLMS.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
-              "ToolTip": "C:\\Users\\rossr\\Desktop\\Projects\\Formative Part 2\\Personal-Formative-2-PROG7311\\GLMS\\GLMS.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+              "ToolTip": "C:\\Users\\rossr\\Desktop\\Projects\\PROG7311-POE-Part-2\\GLMS\\GLMS.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
               "RelativeToolTip": "GLMS.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
@@ -1111,11 +1150,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 65,
+              "DocumentIndex": 66,
               "Title": "bootstrap-reboot.css",
-              "DocumentMoniker": "C:\\Users\\rossr\\Desktop\\Projects\\Formative Part 2\\Personal-Formative-2-PROG7311\\GLMS\\GLMS.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+              "DocumentMoniker": "C:\\Users\\rossr\\Desktop\\Projects\\PROG7311-POE-Part-2\\GLMS\\GLMS.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
               "RelativeDocumentMoniker": "GLMS.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
-              "ToolTip": "C:\\Users\\rossr\\Desktop\\Projects\\Formative Part 2\\Personal-Formative-2-PROG7311\\GLMS\\GLMS.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+              "ToolTip": "C:\\Users\\rossr\\Desktop\\Projects\\PROG7311-POE-Part-2\\GLMS\\GLMS.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
               "RelativeToolTip": "GLMS.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
@@ -1123,11 +1162,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 66,
+              "DocumentIndex": 67,
               "Title": "bootstrap-grid.css",
-              "DocumentMoniker": "C:\\Users\\rossr\\Desktop\\Projects\\Formative Part 2\\Personal-Formative-2-PROG7311\\GLMS\\GLMS.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+              "DocumentMoniker": "C:\\Users\\rossr\\Desktop\\Projects\\PROG7311-POE-Part-2\\GLMS\\GLMS.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
               "RelativeDocumentMoniker": "GLMS.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
-              "ToolTip": "C:\\Users\\rossr\\Desktop\\Projects\\Formative Part 2\\Personal-Formative-2-PROG7311\\GLMS\\GLMS.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+              "ToolTip": "C:\\Users\\rossr\\Desktop\\Projects\\PROG7311-POE-Part-2\\GLMS\\GLMS.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
               "RelativeToolTip": "GLMS.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
@@ -1135,11 +1174,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 67,
+              "DocumentIndex": 68,
               "Title": "bootstrap.css",
-              "DocumentMoniker": "C:\\Users\\rossr\\Desktop\\Projects\\Formative Part 2\\Personal-Formative-2-PROG7311\\GLMS\\GLMS.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+              "DocumentMoniker": "C:\\Users\\rossr\\Desktop\\Projects\\PROG7311-POE-Part-2\\GLMS\\GLMS.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
               "RelativeDocumentMoniker": "GLMS.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
-              "ToolTip": "C:\\Users\\rossr\\Desktop\\Projects\\Formative Part 2\\Personal-Formative-2-PROG7311\\GLMS\\GLMS.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+              "ToolTip": "C:\\Users\\rossr\\Desktop\\Projects\\PROG7311-POE-Part-2\\GLMS\\GLMS.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
               "RelativeToolTip": "GLMS.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
@@ -1147,11 +1186,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 68,
+              "DocumentIndex": 69,
               "Title": "site.js",
-              "DocumentMoniker": "C:\\Users\\rossr\\Desktop\\Projects\\Formative Part 2\\Personal-Formative-2-PROG7311\\GLMS\\GLMS.Web\\wwwroot\\js\\site.js",
+              "DocumentMoniker": "C:\\Users\\rossr\\Desktop\\Projects\\PROG7311-POE-Part-2\\GLMS\\GLMS.Web\\wwwroot\\js\\site.js",
               "RelativeDocumentMoniker": "GLMS.Web\\wwwroot\\js\\site.js",
-              "ToolTip": "C:\\Users\\rossr\\Desktop\\Projects\\Formative Part 2\\Personal-Formative-2-PROG7311\\GLMS\\GLMS.Web\\wwwroot\\js\\site.js",
+              "ToolTip": "C:\\Users\\rossr\\Desktop\\Projects\\PROG7311-POE-Part-2\\GLMS\\GLMS.Web\\wwwroot\\js\\site.js",
               "RelativeToolTip": "GLMS.Web\\wwwroot\\js\\site.js",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
@@ -1159,11 +1198,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 69,
+              "DocumentIndex": 70,
               "Title": "site.css",
-              "DocumentMoniker": "C:\\Users\\rossr\\Desktop\\Projects\\Formative Part 2\\Personal-Formative-2-PROG7311\\GLMS\\GLMS.Web\\wwwroot\\css\\site.css",
+              "DocumentMoniker": "C:\\Users\\rossr\\Desktop\\Projects\\PROG7311-POE-Part-2\\GLMS\\GLMS.Web\\wwwroot\\css\\site.css",
               "RelativeDocumentMoniker": "GLMS.Web\\wwwroot\\css\\site.css",
-              "ToolTip": "C:\\Users\\rossr\\Desktop\\Projects\\Formative Part 2\\Personal-Formative-2-PROG7311\\GLMS\\GLMS.Web\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\rossr\\Desktop\\Projects\\PROG7311-POE-Part-2\\GLMS\\GLMS.Web\\wwwroot\\css\\site.css",
               "RelativeToolTip": "GLMS.Web\\wwwroot\\css\\site.css",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
@@ -1171,11 +1210,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 70,
+              "DocumentIndex": 71,
               "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\rossr\\Desktop\\Projects\\Formative Part 2\\Personal-Formative-2-PROG7311\\GLMS\\GLMS.Web\\Properties\\launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\rossr\\Desktop\\Projects\\PROG7311-POE-Part-2\\GLMS\\GLMS.Web\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "GLMS.Web\\Properties\\launchSettings.json",
-              "ToolTip": "C:\\Users\\rossr\\Desktop\\Projects\\Formative Part 2\\Personal-Formative-2-PROG7311\\GLMS\\GLMS.Web\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\rossr\\Desktop\\Projects\\PROG7311-POE-Part-2\\GLMS\\GLMS.Web\\Properties\\launchSettings.json",
               "RelativeToolTip": "GLMS.Web\\Properties\\launchSettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -1183,11 +1222,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 71,
+              "DocumentIndex": 72,
               "Title": "WorkflowLogicTests.cs",
-              "DocumentMoniker": "C:\\Users\\rossr\\Desktop\\Projects\\Formative Part 2\\Personal-Formative-2-PROG7311\\GLMS\\GLMS.Tests\\WorkflowLogicTests.cs",
+              "DocumentMoniker": "C:\\Users\\rossr\\Desktop\\Projects\\PROG7311-POE-Part-2\\GLMS\\GLMS.Tests\\WorkflowLogicTests.cs",
               "RelativeDocumentMoniker": "GLMS.Tests\\WorkflowLogicTests.cs",
-              "ToolTip": "C:\\Users\\rossr\\Desktop\\Projects\\Formative Part 2\\Personal-Formative-2-PROG7311\\GLMS\\GLMS.Tests\\WorkflowLogicTests.cs",
+              "ToolTip": "C:\\Users\\rossr\\Desktop\\Projects\\PROG7311-POE-Part-2\\GLMS\\GLMS.Tests\\WorkflowLogicTests.cs",
               "RelativeToolTip": "GLMS.Tests\\WorkflowLogicTests.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1197,9 +1236,9 @@
               "$type": "Document",
               "DocumentIndex": 75,
               "Title": "ObserverPatternTests.cs",
-              "DocumentMoniker": "C:\\Users\\rossr\\Desktop\\Projects\\Formative Part 2\\Personal-Formative-2-PROG7311\\GLMS\\GLMS.Tests\\ObserverPatternTests.cs",
+              "DocumentMoniker": "C:\\Users\\rossr\\Desktop\\Projects\\PROG7311-POE-Part-2\\GLMS\\GLMS.Tests\\ObserverPatternTests.cs",
               "RelativeDocumentMoniker": "GLMS.Tests\\ObserverPatternTests.cs",
-              "ToolTip": "C:\\Users\\rossr\\Desktop\\Projects\\Formative Part 2\\Personal-Formative-2-PROG7311\\GLMS\\GLMS.Tests\\ObserverPatternTests.cs",
+              "ToolTip": "C:\\Users\\rossr\\Desktop\\Projects\\PROG7311-POE-Part-2\\GLMS\\GLMS.Tests\\ObserverPatternTests.cs",
               "RelativeToolTip": "GLMS.Tests\\ObserverPatternTests.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1209,9 +1248,9 @@
               "$type": "Document",
               "DocumentIndex": 74,
               "Title": "FileValidationTests.cs",
-              "DocumentMoniker": "C:\\Users\\rossr\\Desktop\\Projects\\Formative Part 2\\Personal-Formative-2-PROG7311\\GLMS\\GLMS.Tests\\FileValidationTests.cs",
+              "DocumentMoniker": "C:\\Users\\rossr\\Desktop\\Projects\\PROG7311-POE-Part-2\\GLMS\\GLMS.Tests\\FileValidationTests.cs",
               "RelativeDocumentMoniker": "GLMS.Tests\\FileValidationTests.cs",
-              "ToolTip": "C:\\Users\\rossr\\Desktop\\Projects\\Formative Part 2\\Personal-Formative-2-PROG7311\\GLMS\\GLMS.Tests\\FileValidationTests.cs",
+              "ToolTip": "C:\\Users\\rossr\\Desktop\\Projects\\PROG7311-POE-Part-2\\GLMS\\GLMS.Tests\\FileValidationTests.cs",
               "RelativeToolTip": "GLMS.Tests\\FileValidationTests.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1221,9 +1260,9 @@
               "$type": "Document",
               "DocumentIndex": 73,
               "Title": "CurrencyCalculationTests.cs",
-              "DocumentMoniker": "C:\\Users\\rossr\\Desktop\\Projects\\Formative Part 2\\Personal-Formative-2-PROG7311\\GLMS\\GLMS.Tests\\CurrencyCalculationTests.cs",
+              "DocumentMoniker": "C:\\Users\\rossr\\Desktop\\Projects\\PROG7311-POE-Part-2\\GLMS\\GLMS.Tests\\CurrencyCalculationTests.cs",
               "RelativeDocumentMoniker": "GLMS.Tests\\CurrencyCalculationTests.cs",
-              "ToolTip": "C:\\Users\\rossr\\Desktop\\Projects\\Formative Part 2\\Personal-Formative-2-PROG7311\\GLMS\\GLMS.Tests\\CurrencyCalculationTests.cs",
+              "ToolTip": "C:\\Users\\rossr\\Desktop\\Projects\\PROG7311-POE-Part-2\\GLMS\\GLMS.Tests\\CurrencyCalculationTests.cs",
               "RelativeToolTip": "GLMS.Tests\\CurrencyCalculationTests.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAEIAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1231,23 +1270,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 72,
-              "Title": "ContractFactoryTests.cs",
-              "DocumentMoniker": "C:\\Users\\rossr\\Desktop\\Projects\\Formative Part 2\\Personal-Formative-2-PROG7311\\GLMS\\GLMS.Tests\\ContractFactoryTests.cs",
-              "RelativeDocumentMoniker": "GLMS.Tests\\ContractFactoryTests.cs",
-              "ToolTip": "C:\\Users\\rossr\\Desktop\\Projects\\Formative Part 2\\Personal-Formative-2-PROG7311\\GLMS\\GLMS.Tests\\ContractFactoryTests.cs",
-              "RelativeToolTip": "GLMS.Tests\\ContractFactoryTests.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-22T16:52:55.577Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 76,
               "Title": "GLMS.Web.csproj",
-              "DocumentMoniker": "C:\\Users\\rossr\\Desktop\\Projects\\Formative Part 2\\Personal-Formative-2-PROG7311\\GLMS\\GLMS.Web\\GLMS.Web.csproj",
+              "DocumentMoniker": "C:\\Users\\rossr\\Desktop\\Projects\\PROG7311-POE-Part-2\\GLMS\\GLMS.Web\\GLMS.Web.csproj",
               "RelativeDocumentMoniker": "GLMS.Web\\GLMS.Web.csproj",
-              "ToolTip": "C:\\Users\\rossr\\Desktop\\Projects\\Formative Part 2\\Personal-Formative-2-PROG7311\\GLMS\\GLMS.Web\\GLMS.Web.csproj",
+              "ToolTip": "C:\\Users\\rossr\\Desktop\\Projects\\PROG7311-POE-Part-2\\GLMS\\GLMS.Web\\GLMS.Web.csproj",
               "RelativeToolTip": "GLMS.Web\\GLMS.Web.csproj",
               "ViewState": "AgIAABMAAACAFFLyLCMQwBUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",

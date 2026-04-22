@@ -19,97 +19,97 @@ build_property.TargetFrameworkIdentifier = .NETCoreApp
 build_property.TargetFrameworkVersion = v10.0
 build_property.RootNamespace = GLMS.Web
 build_property.RootNamespace = GLMS.Web
-build_property.ProjectDir = C:\Users\rossr\Desktop\Projects\Formative Part 2\Personal-Formative-2-PROG7311\GLMS\GLMS.Web\
+build_property.ProjectDir = C:\Users\rossr\Desktop\Projects\PROG7311-POE-Part-2\GLMS\GLMS.Web\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 9.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\rossr\Desktop\Projects\Formative Part 2\Personal-Formative-2-PROG7311\GLMS\GLMS.Web
+build_property.MSBuildProjectDirectory = C:\Users\rossr\Desktop\Projects\PROG7311-POE-Part-2\GLMS\GLMS.Web
 build_property._RazorSourceGeneratorDebug = 
 build_property.EffectiveAnalysisLevelStyle = 10.0
 build_property.EnableCodeStyleSeverity = 
 
-[C:/Users/rossr/Desktop/Projects/Formative Part 2/Personal-Formative-2-PROG7311/GLMS/GLMS.Web/Views/Client/Create.cshtml]
+[C:/Users/rossr/Desktop/Projects/PROG7311-POE-Part-2/GLMS/GLMS.Web/Views/Client/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50XENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/rossr/Desktop/Projects/Formative Part 2/Personal-Formative-2-PROG7311/GLMS/GLMS.Web/Views/Client/Delete.cshtml]
+[C:/Users/rossr/Desktop/Projects/PROG7311-POE-Part-2/GLMS/GLMS.Web/Views/Client/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50XERlbGV0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/rossr/Desktop/Projects/Formative Part 2/Personal-Formative-2-PROG7311/GLMS/GLMS.Web/Views/Client/Details.cshtml]
+[C:/Users/rossr/Desktop/Projects/PROG7311-POE-Part-2/GLMS/GLMS.Web/Views/Client/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50XERldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/rossr/Desktop/Projects/Formative Part 2/Personal-Formative-2-PROG7311/GLMS/GLMS.Web/Views/Client/Edit.cshtml]
+[C:/Users/rossr/Desktop/Projects/PROG7311-POE-Part-2/GLMS/GLMS.Web/Views/Client/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50XEVkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/rossr/Desktop/Projects/Formative Part 2/Personal-Formative-2-PROG7311/GLMS/GLMS.Web/Views/Client/Index.cshtml]
+[C:/Users/rossr/Desktop/Projects/PROG7311-POE-Part-2/GLMS/GLMS.Web/Views/Client/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50XEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/rossr/Desktop/Projects/Formative Part 2/Personal-Formative-2-PROG7311/GLMS/GLMS.Web/Views/Contract/Create.cshtml]
+[C:/Users/rossr/Desktop/Projects/PROG7311-POE-Part-2/GLMS/GLMS.Web/Views/Contract/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udHJhY3RcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/rossr/Desktop/Projects/Formative Part 2/Personal-Formative-2-PROG7311/GLMS/GLMS.Web/Views/Contract/Delete.cshtml]
+[C:/Users/rossr/Desktop/Projects/PROG7311-POE-Part-2/GLMS/GLMS.Web/Views/Contract/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udHJhY3RcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/rossr/Desktop/Projects/Formative Part 2/Personal-Formative-2-PROG7311/GLMS/GLMS.Web/Views/Contract/Details.cshtml]
+[C:/Users/rossr/Desktop/Projects/PROG7311-POE-Part-2/GLMS/GLMS.Web/Views/Contract/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udHJhY3RcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/rossr/Desktop/Projects/Formative Part 2/Personal-Formative-2-PROG7311/GLMS/GLMS.Web/Views/Contract/Edit.cshtml]
+[C:/Users/rossr/Desktop/Projects/PROG7311-POE-Part-2/GLMS/GLMS.Web/Views/Contract/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udHJhY3RcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/rossr/Desktop/Projects/Formative Part 2/Personal-Formative-2-PROG7311/GLMS/GLMS.Web/Views/Contract/Index.cshtml]
+[C:/Users/rossr/Desktop/Projects/PROG7311-POE-Part-2/GLMS/GLMS.Web/Views/Contract/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udHJhY3RcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/rossr/Desktop/Projects/Formative Part 2/Personal-Formative-2-PROG7311/GLMS/GLMS.Web/Views/Home/Index.cshtml]
+[C:/Users/rossr/Desktop/Projects/PROG7311-POE-Part-2/GLMS/GLMS.Web/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/rossr/Desktop/Projects/Formative Part 2/Personal-Formative-2-PROG7311/GLMS/GLMS.Web/Views/Home/Privacy.cshtml]
+[C:/Users/rossr/Desktop/Projects/PROG7311-POE-Part-2/GLMS/GLMS.Web/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/rossr/Desktop/Projects/Formative Part 2/Personal-Formative-2-PROG7311/GLMS/GLMS.Web/Views/ServiceRequest/Create.cshtml]
+[C:/Users/rossr/Desktop/Projects/PROG7311-POE-Part-2/GLMS/GLMS.Web/Views/ServiceRequest/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VydmljZVJlcXVlc3RcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/rossr/Desktop/Projects/Formative Part 2/Personal-Formative-2-PROG7311/GLMS/GLMS.Web/Views/ServiceRequest/Delete.cshtml]
+[C:/Users/rossr/Desktop/Projects/PROG7311-POE-Part-2/GLMS/GLMS.Web/Views/ServiceRequest/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VydmljZVJlcXVlc3RcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/rossr/Desktop/Projects/Formative Part 2/Personal-Formative-2-PROG7311/GLMS/GLMS.Web/Views/ServiceRequest/Details.cshtml]
+[C:/Users/rossr/Desktop/Projects/PROG7311-POE-Part-2/GLMS/GLMS.Web/Views/ServiceRequest/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VydmljZVJlcXVlc3RcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/rossr/Desktop/Projects/Formative Part 2/Personal-Formative-2-PROG7311/GLMS/GLMS.Web/Views/ServiceRequest/Index.cshtml]
+[C:/Users/rossr/Desktop/Projects/PROG7311-POE-Part-2/GLMS/GLMS.Web/Views/ServiceRequest/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VydmljZVJlcXVlc3RcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/rossr/Desktop/Projects/Formative Part 2/Personal-Formative-2-PROG7311/GLMS/GLMS.Web/Views/Shared/Error.cshtml]
+[C:/Users/rossr/Desktop/Projects/PROG7311-POE-Part-2/GLMS/GLMS.Web/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/rossr/Desktop/Projects/Formative Part 2/Personal-Formative-2-PROG7311/GLMS/GLMS.Web/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/rossr/Desktop/Projects/PROG7311-POE-Part-2/GLMS/GLMS.Web/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/rossr/Desktop/Projects/Formative Part 2/Personal-Formative-2-PROG7311/GLMS/GLMS.Web/Views/_ViewImports.cshtml]
+[C:/Users/rossr/Desktop/Projects/PROG7311-POE-Part-2/GLMS/GLMS.Web/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/rossr/Desktop/Projects/Formative Part 2/Personal-Formative-2-PROG7311/GLMS/GLMS.Web/Views/_ViewStart.cshtml]
+[C:/Users/rossr/Desktop/Projects/PROG7311-POE-Part-2/GLMS/GLMS.Web/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/rossr/Desktop/Projects/Formative Part 2/Personal-Formative-2-PROG7311/GLMS/GLMS.Web/Views/Shared/_Layout.cshtml]
+[C:/Users/rossr/Desktop/Projects/PROG7311-POE-Part-2/GLMS/GLMS.Web/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-8oztededvv
